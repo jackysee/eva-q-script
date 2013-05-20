@@ -1,0 +1,1477 @@
+00:00:37,200 Start entry sequence.
+00:00:39,330 Initializing LCL ionization.
+00:00:42,040 Plug depth stable at default value.
+00:00:44,210 Autonomous systems are a go.
+00:00:46,250 Boot-up voltage has cleared the threshold.
+00:00:48,590 Launch prerequisites achieved.
+00:00:50,840 Synchronization rate requirements are a go.
+00:00:53,510 Pilot, please specify linguistic norm for cognitive functions.
+00:00:58,340 Well, it's my first time, so I'll go with Japanese.
+00:01:01,970 Roger.
+00:01:08,730 I guess we weren't able to issue you the new model in time.
+00:01:11,650 I hate how this thing's tight in the chest.
+00:01:13,820 On top of which, we're sending you out to fight in an Eva that was thrown together.
+00:01:17,410 So I'm really sorry about that.
+00:01:19,570 You finally let me get in the pilot's seat, so we're good.
+00:01:22,490 You're a problem child, after all. Well, we're counting on you.
+00:01:25,750 It's moving! It's moving!
+00:01:27,670 This is great! So exciting!
+00:01:33,050 Now, then!
+00:01:34,130 Evangelion Provisional Unit 05, activate!
+00:01:50,730 Defend the Limbo Area at all costs!
+00:01:53,690 We cannot allow it to escape from Acheron!
+00:01:56,280 How could a containment system as secure as Cocytus be neutralized?
+00:02:00,820 It was within the realm of possibility.
+00:02:04,240 On its own, humanity is incapable of holding the Angels in check.
+00:02:08,830 The analysis following the permafrost excavation
+00:02:11,840 of the 3rd Angel was so extensive, all that was left were some bones.
+00:02:16,840 And this was the conclusion.
+00:02:19,430 That's it. Good luck!
+00:02:21,850 E Happiness won't come walking to you E
+00:02:26,350 E That's why you have to walk to it E
+00:02:30,810 E One step a day, three steps in three days E
+00:02:34,980 E Three steps forward and two steps back E
+00:02:39,400 E Go at life with a one-two punch E
+00:02:43,870 Ooh, here it comes! Deploy field!
+00:02:53,460 Target inbound. Eva Unit-is about to engage the hostile.
+00:03:04,600 Oh, man!
+00:03:06,850 This thing is so not responsive!
+00:03:13,440 I guess that just leaves brute force as my only option!
+00:03:29,950 Upper outer wall integrity compromised!
+00:03:32,290 The final seal is about to be breached!
+00:03:43,430 Target has broken through Limbo Area.
+00:03:45,470 Now moving into Acheron.
+00:03:47,350 Get Unit-05 to do something!
+00:03:51,230 You're not getting away from me!
+00:04:01,570 Ow! This hurts real bad, but...
+00:04:04,990 It's fun, so it's all good!
+00:04:11,830 No time left.
+00:04:15,250 And this unit can't take much more.
+00:04:17,540 And the artificial arms were forcibly synchronized,
+00:04:20,800 so they're not as powerful.
+00:04:28,180 Oh, fine!
+00:04:30,850 I'll let you have an arm!
+00:04:38,690 Drop dead already!
+00:04:59,420 Target obliterated.
+00:05:00,960 Unit-05 has been vaporized.
+00:05:02,880 Pilot appears to have been ejected.
+00:05:05,260 So, Unit-05's self-destruct program functioned without a hitch...
+00:05:10,140 This was always part of the plan,
+00:05:12,060 but I feel bad about involving kids to carry out adult agendas.
+00:05:21,020 Ow, that hurt...
+00:05:23,530 Synchronizing with an Eva is more brutal than they'd said.
+00:05:32,240 Well, as long as I'm alive, it's all good.
+00:05:35,620 I feel awkward involving adults for the sake of my own goals...
+00:05:41,250 Farewell, Eva Unit-05.
+00:05:44,210 You served well.
+00:05:59,690 It's been three years, hasn't it? Since we last came here together.
+00:06:05,030 I ran away that time and...
+00:06:08,320 I haven't been here since.
+00:06:10,740 It doesn't seem real to me that Mom was laid to rest here.
+00:06:14,240 I don't even remember her face.
+00:06:16,450 People deal with life by letting their memories fade.
+00:06:20,040 But there are also some things that we must never forget.
+00:06:24,050 And Yui taught me those things, which are to be treasured.
+00:06:27,470 I come here to reaffirm those things.
+00:06:31,510 You don't have any photos of her or anything?
+00:06:34,220 None remain.
+00:06:36,140 Even this grave is just for show.
+00:06:38,600 There's no body here.
+00:06:40,690 So you threw everything away, just like my teacher said.
+00:06:44,940 It's all in my heart and mind.
+00:06:48,030 That's enough for now.
+00:06:55,410 It's time. I'll be returning without you.
+00:07:03,250 Dad!
+00:07:06,960 Um...
+00:07:08,880 I'm glad I got to talk to you today.
+00:07:13,470 Are you?
+00:07:55,680 Well, Shinji?
+00:07:57,430 You were worried about this and that,
+00:07:59,390 but it wasn't so bad when you actually saw him, right?
+00:08:02,980 It's good that you came instead of being wishy-washy at home, right?
+00:08:06,480 It was a visit to your mother's grave, after all.
+00:08:09,030 You just dragged me out here, Miss Misato.
+00:08:11,610 That's because, deep down, you wanted to come.
+00:08:15,360 Be at least a little honest with yourself.
+00:08:17,660 Being honest with myself will only make me more miserable.
+00:08:20,620 You lived up to everyone's expectation and saved us.
+00:08:24,370 Have more confidence in yourself.
+00:08:28,670 I'm sure your father also recognizes you for what you've accomplished.
+00:08:34,380 Yes? Katsuragi.
+00:08:37,180 Whoa-oa-oa!
+00:08:40,640 What did you say?!
+00:09:10,170 The Seventh Angel has been detected off the coast of Sagami Bay.
+00:09:12,800 Area 2 Division engaging target.
+00:09:14,380 State of emergency declared three minutes ago.
+00:09:17,590 I've got a visual on it, too.
+00:09:19,260 Currently transporting Unit-01 pilot.
+00:09:21,430 Implement Task 03 right away, prioritizing Unit-00.
+00:09:24,930 Negative. Task 02 has already been implemented.
+00:09:27,520 Task 02?!
+00:09:28,900 Don't tell me...!
+00:09:37,660 Just as I thought! Unit-02!
+00:10:13,820 Wow! One shot to take out the core!
+00:10:15,860 No! That was a decoy!
+00:11:12,080 Situation terminated!
+00:11:13,710 Eva Unit-02 currently in transit via Main Sagami Line 1.
+00:11:18,130 No change to ETA to Depot 9.
+00:11:23,180 Whoowee! So Unit-02's red, huh?
+00:11:26,560 Its color's not the only thing that's different.
+00:11:29,640 Ultimately, Unit-00 and Unit-
+00:11:31,440 are just the prototype and the test-type used in the developmental process.
+00:11:34,690 But Unit-02 is different.
+00:11:36,650 It's none other than the world's first real Evangelion, built for actual combat!
+00:11:41,610 The official production model!
+00:11:43,530 Allow me to introduce you to the Euro Air Force ace,
+00:11:46,370 Captain Asuka Langley Shikinami.
+00:11:48,330 She's the 2nd Girl. Designated pilot of Eva Unit-02.
+00:11:53,830 Long time no see, Misato.
+00:11:58,800 So that's the Unit-00 pilot, who was chosen because she's the teacher's pet.
+00:12:03,180 And which one of you is the Unit-01 pilot, who was chosen because he's daddy's boy?
+00:12:08,010 Uh, um...
+00:12:11,520 What are you, an idiot?! Not being available in a moment of crisis?!
+00:12:14,730 How blind are you?!
+00:12:18,070 And unguarded, too.
+00:12:22,320 You're not even ashamed that your Eva wasn't there to fight!
+00:12:25,700 That's what you get from a daddy's boy.
+00:12:30,750 Who the hell does that chick think she is, anyway?!
+00:12:35,580 A captain already at our age, though? That's awesome! Beyond awesome!
+00:12:40,710 That's like going from junior high straight to grad school!
+00:12:43,260 Excuse me.
+00:12:45,130 Is this the right gate for the Geofront's hub terminal?
+00:12:49,140 Er, yes. You'll have to transfer at the fourth stop, though.
+00:12:53,810 I've only been gone for two years, and I feel like Urashima Taro...
+00:12:58,230 Thanks, you're a lifesaver.
+00:13:00,360 By the way, isn't Katsuragi with you?
+00:13:04,820 I'm an old friend of hers.
+00:13:06,530 You're not the only one who knows what a sloppy sleeper she is, Shinji Ikari.
+00:13:16,000 He's watched her sleep?
+00:13:17,790 Who is that guy?
+00:13:19,710 Man, oh, man, that was one rough job.
+00:13:22,840 The 3rd Angel and Eva Unit-05, which were outstanding issues,
+00:13:25,380 were disposed of as planned.
+00:13:27,090 The cause, categorically deemed an accident.
+00:13:28,890 The Marduk Plan at Bethany Base will come to a standstill now.
+00:13:32,600 All has gone exactly as you had planned.
+00:13:34,890 As for the usual report on the latest from Seele, just earlier, I--
+00:13:38,150 We took a look at it.
+00:13:40,110 Confirmation of the construction of Mark 06 proved useful.
+00:13:43,440 Excellent.
+00:13:44,900 Here is the item as promised.
+00:13:47,740 The lost number that had been stored for safekeeping as the spare.
+00:13:52,830 The waymark that will entwine God and soul.
+00:13:56,710 Yes.
+00:13:57,830 It will open the door to Human Instrumentality.
+00:14:00,960 The Key of Nebuchadnezzar.
+00:14:03,250 Then if you'll excuse me,
+00:14:04,920 I'm going to go do my own thing for a while.
+00:14:11,470 Ryoji Kaji. Chief Inspection Officer.
+00:14:14,770 Is he a man that can be trusted?
+00:14:24,690 Have you lost a little weight, Ritsy?
+00:14:27,030 Wrong. I've gained 1,570 grams.
+00:14:30,780 I'd love to see for myself.
+00:14:32,830 I wouldn't mind, but this room is being monitored.
+00:14:36,000 No problem. I already have fake footage running on the system.
+00:14:39,790 Thoroughly prepared as ever, aren't you?
+00:14:42,040 I just don't like to lose.
+00:14:44,210 But you've lost.
+00:14:46,920 There's a scary lady watching us.
+00:14:51,680 Long time no see, Ryo.
+00:14:53,390 Hey, it's been a while.
+00:14:55,390 What the hell are you doing here?
+00:14:57,980 You're assigned to Euro, aren't you?
+00:14:59,390 I'm here on a special assignment. I'll be at Headquarters for a while.
+00:15:02,270 The three of us can hang out together again. Just like when we were students.
+00:15:05,690 I have no interest in going back to those days!
+00:15:08,360 I only came to see Ritsuko!
+00:15:10,780 About Asuka. I got HR's okay. Bye!
+00:15:16,160 That was blatant jealousy.
+00:15:18,950 You've got a shot at her here, Ryo.
+00:15:21,080 Well, we'll have to see about that.
+00:15:30,130 Asuka Shikinami...
+00:15:33,390 I had no idea some people were actually happy to pilot an Eva.
+00:15:37,220 I'm back.
+00:15:39,140 Wait, what the hell is this?!
+00:15:41,770 My room...
+00:15:43,730 How rude!
+00:15:44,940 That's my stuff.
+00:15:46,940 But then, what about my stuff? Wait, what are you doing here, Shikinami?
+00:15:52,400 What are you, an idiot?
+00:15:54,620 It means they're giving you the boot.
+00:15:57,240 Well, when you consider who's the more accomplished one here,
+00:16:00,160 the decision was obvious.
+00:16:01,710 You can't be serious!
+00:16:03,250 But why are Japanese rooms so cramped?!
+00:16:06,790 I couldn't even fit half of my stuff in here!
+00:16:09,590 And why do Japanese people totally lack any sense of security?
+00:16:14,180 I don't know how you people live in rooms without locks!
+00:16:16,680 Unbelievable!
+00:16:19,310 That's because the Japanese spirit is about being perceptive and considerate.
+00:16:22,770 Miss Misato!
+00:16:24,190 You are so annoying!
+00:16:25,520 Hurry up and get lost along with the trash.
+00:16:27,980 Oh, but Shin's staying here, too.
+00:16:30,570 What?!
+00:16:31,530 What you and Shin lack is appropriate communication skills.
+00:16:35,780 As fellow pilots, you need to live under the same roof and make nice.
+00:16:42,710 That's an order.
+00:17:02,100 Okay, all together now!
+00:17:04,480 Thank you for the meal!
+00:17:12,190 A cold beer after a hot bath is still the best thing ever!
+00:17:17,490 Th-Th-There's some weird animal in the bath!
+00:17:23,500 It's a kind of bird called penguins.
+00:17:25,290 His name is Pen Pen.
+00:17:37,720 You pervert!
+00:17:38,890 Jerk! You're sick! Unbelievable!
+00:17:40,800 They're starting to open up more.
+00:17:42,430 This is why I hate boys! blah
+00:17:42,960 I think that's a good sign.
+00:17:44,310 Don't you, Pen Pen?
+00:17:58,410 "I'm not like them, either!"
+00:18:00,780 "I'm special!"
+00:18:03,450 "That's why, just like before..."
+00:18:07,000 You have to keep going it alone, Asuka.
+00:18:31,980 I guess Dad still won't answer the phone.
+00:19:59,150 A social studies field trip?
+00:20:00,780 Kaji's taking you?
+00:20:01,780 Yes. He said I should invite everyone else along, too.
+00:20:04,570 Nothing good will come of having anything to do with that guy.
+00:20:07,240 Then I'm gonna pass!
+00:20:09,490 No, you're not. "Harmony is the greatest of virtues."
+00:20:12,660 You go, too, Asuka.
+00:20:14,120 Is that an order, too?
+00:20:24,010 Here we are, with the Tabgha Moonbase right in front of our noses,
+00:20:27,600 and yet, they refuse us permission to land.
+00:20:30,020 The Seele certainly can be nasty.
+00:20:32,560 The construction methods being used on the Mark 06 differ from the others.
+00:20:35,980 Getting to ascertain that is enough.
+00:20:38,650 But there weren't supposed to be any plans for construction beyond Unit-05.
+00:20:42,690 There are likely still undisclosed Apocrypha of the Dead Sea Scrolls.
+00:20:47,030 Seele intends to follow their script based on those writings.
+00:20:51,750 But even Seele must be aware of Nerv's ultimate goal at this point.
+00:20:57,210 Even if they are, we have but to follow our own path.
+00:21:02,010 Though it may mean turning against the Word of God.
+00:21:11,140 Is that a person?
+00:21:12,520 Surely not...
+00:21:14,940 Nice to meet you, Father.
+00:21:18,980 Awesome! This is beyond awesome!
+00:21:21,320 Perpetual conservation of the marine life that was lost
+00:21:23,780 and restoration of the oceans that had turned red!
+00:21:26,610 Truly, a forbidden sanctuary carrying out grand godlike experimental projects!
+00:21:30,830 Just getting to scratch the surface and tour even a small part of it is...
+00:21:34,200 Truly, it's like, this is what good friends are for!
+00:21:37,080 Awesome! blah
+00:21:37,320 Thanks a bunch, man.
+00:21:39,130 If you're going to thank someone, thank Mr. Kaji.
+00:21:42,150 Here's where things get complicated.
+00:21:45,080 Huh?
+00:21:53,310 Hot, hot, hot, hot, hot!
+00:21:59,480 C-Cold! Cold!
+00:22:03,320 Not again.
+00:22:05,940 Nooo!
+00:22:08,910 I can't take any more of this...
+00:22:19,790 What a huge tank!
+00:22:21,010 Amazing!
+00:22:25,340 So these are the creatures from before the Second Impact.
+00:22:37,850 Holy...! They're alive!
+00:22:39,980 Awesome! Beyond awesome!
+00:22:42,310 Ooh, here's one with somethin' on its back!
+00:22:45,030 I hear they're called "turtles."
+00:22:46,360 "Turtuls"?
+00:22:47,150 Look at the kiddies getting all excited. Talk about idiotic.
+00:23:00,960 I'm glad you were able to come with us, Ayanami.
+00:23:03,500 Are you okay now, healthwise?
+00:23:05,340 Yes.
+00:23:06,800 I finished my allotment, so I'm fine today.
+00:23:11,390 It's so cramped in there.
+00:23:12,890 They should go swim in the bigger areas.
+00:23:15,510 They can't.
+00:23:16,850 They can only survive in there.
+00:23:20,980 Just like me.
+00:23:31,200 Time to eat!
+00:23:34,990 This is good. I didn't expect that.
+00:23:36,740 Yeah, excellent job on the grilling and seasoning.
+00:23:40,040 To think the 90% artificial meat can become this tasty when cooked right.
+00:23:44,290 It's truly astounding!
+00:23:45,960 Shinji, that's a hidden talent ya got there.
+00:23:48,550 Miss Misato only goes for microwavable foods,
+00:23:51,550 so it's either I cook or nothing.
+00:23:53,340 Women love men who know their way around a kitchen, Shinji.
+00:23:56,510 You hear that?
+00:23:57,930 Nuh-uh! I'm not gonna cook! That's no job for a man!
+00:24:00,930 Talk about old-fashioned. So idiotic.
+00:24:03,440 The hell d'you say?! It's important to have yer principles!
+00:24:06,190 That's even more idiotic.
+00:24:07,520 The hell d'you say?!
+00:24:07,910 Forget about it. Just eat, just eat.
+00:24:14,740 Sorry, Ayanami, was it not to your taste?
+00:24:18,030 No, I just don't eat meat.
+00:24:20,660 Why do you Japanese apologize when you haven't even done anything wrong?!
+00:24:24,000 And you!
+00:24:25,250 Living things eat other living things to survive!
+00:24:27,540 That's precious life there, so clean your plate!
+00:24:33,180 Are you trying to pick a fight, Teacher's Pet?!
+00:24:38,050 Comin' through, comin' through.
+00:24:40,100 In that case, I'll just help myself.
+00:24:43,230 Ya aren't gettin' any!
+00:24:44,810 Greedy bastard! Get away from me!
+00:24:47,150 Moron!
+00:24:49,480 Idiotic.
+00:24:51,990 Then, how about some miso soup?
+00:24:57,530 It'll warm you up.
+00:25:10,800 It's delicious.
+00:25:12,840 To think that this is our Mother Earth.
+00:25:15,430 I can't look at it. It breaks my heart.
+00:25:18,640 However, there are also those who wished for this miserable state.
+00:25:23,140 Because it's a world barred to man, cleansed and untainted by original sin.
+00:25:29,310 I would rather have a chaotic world tainted by man.
+00:25:34,110 Chaos is merely a human impression.
+00:25:36,780 The world is composed entirely of harmony and order.
+00:25:40,830 So, it is the human heart that throws the world into confusion.
+00:25:46,250 It's hard for me to imagine
+00:25:48,290 that this ocean used to be blue before I was born.
+00:25:51,250 It's amazing that we were even able to restore the environment
+00:25:54,260 to the point where we humans could live in it.
+00:25:56,510 But this sea breeze...
+00:25:59,680 It smells kind of weird and fishy, doesn't it?
+00:26:02,640 It's the smell of decaying marine life.
+00:26:05,140 It's proof that they were alive.
+00:26:07,810 Not like that red water with nothing in it.
+00:26:10,520 This is how the real ocean's supposed to be.
+00:26:13,320 By rights, this world should be vast and filled with all kinds of life.
+00:26:18,410 And I wanted you guys to know that.
+00:26:21,700 It makes me happy somehow.
+00:26:23,870 Miss Misato should've come, too.
+00:26:26,120 Katsuragi would never come.
+00:26:28,250 Because it would remind her.
+00:26:29,870 Of what?
+00:26:32,380 The Second Impact...
+00:27:18,470 Have you ever asked Katsuragi why she joined Nerv?
+00:27:23,470 Katsuragi's father was apparently the sort of man
+00:27:25,390 who lived for his research, lived in his dreams.
+00:27:29,980 And she used to hate her father for that.
+00:27:33,400 I think she may have even despised him.
+00:27:35,230 So you don't get along with your father.
+00:27:37,230 You're the same as me.
+00:27:38,940 She's the same as me.
+00:27:41,280 But in the end,
+00:27:43,700 she was saved by her father.
+00:27:46,910 Being a survivor can mean a lot of things.
+00:27:50,540 You have to accept the sacrifice of those who died
+00:27:53,330 and bear the burden of what they stood for.
+00:27:55,710 That's all the more true if you're the sole survivor.
+00:27:59,260 You're not the only one who's got it rough.
+00:28:07,220 Target detected by Mauna Kea Observatories three minutes ago.
+00:28:09,850 Currently entering orbital elements.
+00:28:11,980 Surveillance Satellite has a visual on the target.
+00:28:14,940 Putting it on screen at maximum magnification.
+00:28:19,320 An AT field powerful enough to bend light? That's phenomenal.
+00:28:23,530 So, where do we expect it to land?
+00:28:26,780 Here, of course. Right?
+00:28:29,120 The Magi are also recalculating.
+00:28:30,700 Probability of a direct hit on Nerv HQ is 99.9999%.
+00:28:40,550 The aerial N2 bombs are having no effect whatsoever.
+00:28:43,550 So, no adjusting its trajectory.
+00:28:45,550 Its AT field is pushed out to one concentrated point,
+00:28:48,890 and the energy from its descent will add to that as well.
+00:28:51,560 So the Angel itself is acting as a bomb.
+00:28:54,560 In the event the 8th Angel scores a direct hit,
+00:28:57,560 the estimated diameter of the blast is 420,000.
+00:28:59,110 With a geoid deviation of -15,000.
+00:29:01,650 New Tokyo-3 will be vaporized.
+00:29:03,740 The Central Dogma will be completely exposed, to say nothing of the Geofront.
+00:29:07,660 Where's Commander Ikari?
+00:29:08,700 Signals in the upper atmosphere are unstable due to the Angel.
+00:29:11,620 We can't reach him at this time.
+00:29:14,040 We'll have no choice but to make the call ourselves here.
+00:29:18,880 Notify the Japanese government as well as all ministries.
+00:29:21,760 Under Nerv's authority, we are issuing Special Declaration D-17.
+00:29:25,380 Immediately commence the evacuation of all residents within a 120km radius.
+00:29:29,100 Not a problem.
+00:29:30,560 People connected to the government have already begun scrambling to evacuate.
+00:29:48,570 Evacuation of civilians within city limits completed.
+00:29:52,080 Evacuation of noncombatants and Class D Workers has been completed
+00:29:55,330 in accordance with Departmental Warning C.
+00:29:58,000 We've asked Matsushiro to handle the backup of the Magi.
+00:30:01,000 So, what's the plan?
+00:30:02,880 Even our Evas aren't capable of flying...
+00:30:06,260 Severe spatial distortion also makes sniping from various angles impossible.
+00:30:10,140 There's nothing we can do against a monster like this.
+00:30:19,600 Are you serious?
+00:30:20,920 Yes, I am.
+00:30:22,320 Can this plan really be called a strategy?
+00:30:25,030 Even the Magi have verified that the probability of failure is a little over 99%.
+00:30:29,160 Even if it succeeds, we'll lose three Evas.
+00:30:32,330 Speaking for the Technology Division, that is absolutely unacceptable.
+00:30:34,950 Our chance of success isn't zero.
+00:30:37,120 Better to be down-to-earth and work hard than wait for a miracle.
+00:30:39,750 We should make protecting Lilith and Unit-01 our top priority.
+00:30:42,540 I have no intention of waiting.
+00:30:43,880 We're going to create a miracle of man's own volition!
+00:30:46,300 Colonel Katsuragi!
+00:30:47,920 I am currently the ranking officer here.
+00:30:50,550 It's my decision to make.
+00:30:52,550 Besides, my job is to wipe out the angels.
+00:30:56,390 Your job? Your personal grudge, you mean?
+00:30:59,140 That's what your vendetta against the Angels is.
+00:31:01,520 What?! Catch it with our hands?!
+00:31:03,820 That's right. As the Angel comes flying,
+00:31:05,530 you'll deploy your Eva's AT field at maximum and catch it directly.
+00:31:08,610 The target is disguising its location, so you won't be able to expect
+00:31:10,780 an accurate calculation of the trajectory based on compensated observation.
+00:31:14,450 In order to give ourselves multiple options as the situation dictates,
+00:31:17,330 this mission will involve all three Evas being deployed simultaneously.
+00:31:20,460 You're wasting your time! I can destroy it on my own!
+00:31:23,000 That'll be impossible. A single Eva won't be able to cover
+00:31:26,460 the vast area within which the Angel is estimated to land.
+00:31:29,260 What is this positioning based on?
+00:31:31,050 Woman's intuition.
+00:31:32,140 How arbitrary is that!
+00:31:34,050 Um, what's our chance of success?
+00:31:35,890 I'd have to say, God only knows.
+00:31:38,890 That's exactly why these millstones around my neck will get in the way!
+00:31:40,980 I'm more than up to the task of protecting mankind on my own!
+00:31:44,110 Your performance in single-combat isn't what this mission needs.
+00:31:47,900 So you refuse to acknowledge my talent?
+00:31:50,450 That's not it.
+00:31:51,700 I need all three of you on this...
+00:31:54,820 ...to create a miracle.
+00:31:56,490 All Evas currently operating on live power sources.
+00:31:56,870 Unit 5 is in position. Situation, green.
+00:31:59,120 Power transmission is nominal.
+00:31:59,750 Currently standing by at designated location.
+00:32:00,120 Unit-02, internal voltage has cleared set levels.
+00:32:01,870 Construction of Temporary Power Storage Facility 305 is complete.
+00:32:02,290 Maintain power supply output at maximum.
+00:32:04,500 Connection made with the New Gotenba Substation.
+00:32:05,380 Start positions for all Evas remain unchanged.
+00:32:06,960 Station coming online.
+00:32:07,380 Continuing to lay down auxiliary cables.
+00:32:07,970 Unit-00 internal power charged to over 105%.
+00:32:11,090 Auxiliary power extension cables have arrived.
+00:32:11,090 Commencing system check.
+00:32:13,950 Roger. Circuits green.
+00:32:13,310 Team 8, please get them connected quickly.
+00:32:14,840 Transmission voltage nominal.
+00:32:17,140 Checking Unit-01 connector link.
+00:32:17,140 Currently testing Transformer Group 7.
+00:32:19,220 No abnormalities detected.
+00:32:19,810 All pilots standing by.
+00:32:21,230 Respiration and heart rates are normal. Final medical check has been cleared.
+00:32:27,070 Being inside the Eva... I wonder why.
+00:32:30,940 It's strangely calming in here, even at a time like this.
+00:32:33,950 Have I gotten used to being in here already?
+00:32:37,280 I wonder why.
+00:32:38,830 It feels warm and familiar...
+00:32:41,960 Is it the smell?
+00:32:43,830 How my mom smelled?
+00:32:46,790 How Ayanami smells?
+00:32:48,800 Calculating target's trajectory.
+00:32:52,010 And here it comes.
+00:32:54,260 All Evas in your start positions.
+00:33:02,850 Since the secondary data is unreliable,
+00:33:05,060 priority from here on out will be given to your onsite discretion.
+00:33:08,400 Everything we've got is riding on you and the Evas.
+00:33:11,320 Target approaching. Distance, approximately 20,000.
+00:33:13,610 All right then, start the operation.
+00:33:17,030 Go.
+00:33:49,730 Target's AT field is transforming!
+00:33:52,280 Trajectory changing!
+00:33:53,610 Estimated point of impact adjusted by 205.
+00:33:55,950 Target accelerating!
+00:33:57,200 What the hell? It's faster than they'd estimated!
+00:33:59,240 No good! I won't make it in time!
+00:34:00,910 I'll manage things from my end. Miss Misato!
+00:34:03,240 Emergency course configuration! 605 to 675!
+00:34:05,870 Yes, ma'am!
+00:34:14,130 Next! 1072 to 1078! Stand by!
+00:34:57,630 Target morphing! Distance, 12,000!
+00:35:05,100 AT field at maximum!
+00:35:41,970 Daddy's Boy!
+00:35:44,100 Unit-02, get the core.
+00:35:45,290 I know that!
+00:35:47,430 Don't order me around!
+00:35:55,820 I missed?!
+00:35:57,230 Damn sore loser, scurrying around!
+00:35:59,610 30 seconds left!
+00:36:11,500 Hurry, Asuka!
+00:36:12,870 I know!
+00:36:18,420 Teacher's Pet?!
+00:36:23,510 Hurry...
+00:36:24,680 Asuka!
+00:36:25,680 I know what to do, damn you!
+00:36:33,640 And here's one more!
+00:37:35,160 Thank you, you guys.
+00:37:37,580 Radio systems are back online. Incoming call from Commander Ikari.
+00:37:41,130 Patch him through.
+00:37:43,800 You have my apologies.
+00:37:45,340 Decisions I made at my discretion have resulted in damage to three Evas,
+00:37:48,260 as well as injury to their pilots.
+00:37:50,550 I take full responsibility for it.
+00:37:53,270 That's fine. In light of the target's destruction,
+00:37:56,230 this level of damage might actually be considered fortunate.
+00:37:59,810 Yes, you did well for us, Colonel Katsuragi.
+00:38:02,780 Thank you very much.
+00:38:04,190 Patch me through to Unit-01's pilot.
+00:38:08,070 I heard what happened. You did well, Shinji.
+00:38:11,740 What? Yes, sir...
+00:38:14,000 Then, Colonel Katsuragi, I will leave the rest to you.
+00:38:17,040 Yes, sir.
+00:38:18,040 Expedite the recovery of the three Evas.
+00:38:20,130 Priority goes to Unit-01. Transport to Emergency Cage 99.
+00:38:31,100 I couldn't do anything...
+00:38:33,600 ...on my own.
+00:39:06,420 Being alone has always been the norm for me, and yet...
+00:39:10,630 Solitude shouldn't bother me, and yet...
+00:39:27,610 H-Hey...
+00:39:28,610 Don't turn this way.
+00:39:36,200 Daddy's Boy, let me stay here, just for a little while.
+00:39:45,500 Um... Miss... Shikinami?
+00:39:51,470 You got caught up in the moment and called me by name today.
+00:39:56,140 I'll make a special exception. You can call me Asuka.
+00:39:58,720 I'll call you Stupid Shinji, too.
+00:40:01,640 Then... um...
+00:40:04,520 Asuka, why do you pilot the Eva...?
+00:40:07,230 What a silly question. Shut up, Stupid Shinji.
+00:40:16,080 I pilot the Eva for myself.
+00:40:20,080 What about you?
+00:40:22,120 I don't really know.
+00:40:25,290 What are you, an idiot?
+00:40:27,040 That's just how you avoid owning up to whatever it is, right?
+00:40:31,510 Maybe I want Dad to praise me.
+00:40:35,590 He praised me for the first time today.
+00:40:40,100 For the first time, I felt happy to be praised.
+00:40:43,850 I wonder if Dad recognizes me for my accomplishments now.
+00:40:49,190 Maybe it's just like Miss Misato said.
+00:40:56,120 You...
+00:40:57,950 ...really are an idiot.
+00:41:01,660 Did you watch it?
+00:41:02,600 I did, I did!
+00:41:04,290 All righty, time to eat!
+00:41:07,330 It's the best part of school, after all!
+00:41:09,840 What?! You didn't bring us lunch?!
+00:41:12,470 I was doing homework this morning and I didn't have time to make it!
+00:41:15,680 And because of that, you expect me to go without lunch?!
+00:41:20,510 Like I said, I'll be sure to make lunch tomorrow!
+00:41:22,640 What's this? Another marital spat?
+00:41:26,650 No, it's not!
+00:41:29,900 Asuka, let me borrow your face washing soap.
+00:41:33,400 Enough already, Misato! Get your own!
+00:41:37,240 Cheapskate!
+00:41:40,530 All righty, time to eat!
+00:41:43,040 Woohoo! Let's dig in!
+00:41:48,000 Hmm. It's so-so today.
+00:41:50,170 But it'd be even better if he hadn't slacked off that day.
+00:41:52,300 Um, Asuka?
+00:41:54,970 Would you mind if I joined you?
+00:41:59,140 No, but I'm not sharing my lunch.
+00:42:05,980 Here, this is for you.
+00:42:10,110 You never seem to have lunch, so...
+00:42:15,320 Thank you.
+00:42:16,450 I'm so glad I worked up the nerve to talk to you.
+00:42:17,720 Hikari, was it?
+00:42:20,780 You can have the rest.
+00:42:23,830 Whew, I'm stuffed!
+00:42:27,000 Thank you for the meal!
+00:42:29,290 That's a late lunch.
+00:42:31,130 Th-Thanks.
+00:42:33,460 So I hear Shinji makes your lunches?
+00:42:35,970 Well, you're not the home cooking type anyway.
+00:42:41,760 I suppose not. Unlike you, with time on your hands,
+00:42:45,060 I have boatloads of work to do as a manager in the trenches.
+00:42:47,810 You're as serious as ever.
+00:42:50,190 I mean, that's your strength, but it's also your weakness.
+00:42:53,900 Like the other day. I heard that you went at it with Ritsy.
+00:42:57,950 Relax a little more.
+00:43:00,070 Unfortunately, my plate's always full with duty and obligations.
+00:43:04,450 If you're too tense, you'll never find a guy.
+00:43:07,620 Nobody asked you!
+00:43:30,730 "Thank you."
+00:43:32,650 Words of gratitude.
+00:43:34,730 Words I'd never spoken before.
+00:43:38,530 I'd never even said it to him...
+00:43:42,990 Rise!
+00:43:45,450 Bow!
+00:43:47,240 Be seated!
+00:43:50,960 Ayanami's absent again, huh? No matter.
+00:43:54,420 She seemed well yesterday.
+00:43:54,840 Now, I'm going to give you back
+00:43:56,800 the test from the other day,
+00:43:58,130 I wonder what happened.
+00:43:58,210 but before I do...
+00:43:59,550 Just like me.
+00:44:01,970 They can only survive in there... What did she mean?
+00:44:11,140 Rei.
+00:44:17,900 Time for a meal.
+00:44:20,490 Yes, sir.
+00:44:28,160 Commander Ikari.
+00:44:30,040 What is it?
+00:44:31,410 Are meals enjoyable?
+00:44:34,540 Yes.
+00:44:36,420 Is there pleasure in eating with someone else?
+00:44:41,470 Yes.
+00:44:43,760 Cooking dishes is delightful... Is that right?
+00:44:48,760 Yes.
+00:44:52,730 Commander Ikari,
+00:44:54,600 how about having a meal with Ikari and the others sometime?
+00:45:02,280 No, I have no time for such...
+00:45:08,490 Honey, take care of Shinji for me...
+00:45:16,920 All right, I'll go.
+00:45:21,420 Simulated synch is normal for all pilots.
+00:45:24,680 Picking up no psychological contamination.
+00:45:27,090 LCL osmotic pressure clears Categorization B.
+00:45:30,390 Jeez, this is so boring!
+00:45:34,100 If no Angels come, we're stuck doing checks all day! Totally not cool.
+00:45:38,150 I don't see the problem.
+00:45:40,020 We're doing all this work so we can build a peaceful daily life free of Angels, you know.
+00:45:45,490 Whee!
+00:45:46,530 Glorying in our repetitive daily lives:
+00:45:47,870 in a today just like yesterday, a tomorrow probably just like today.
+00:45:52,200 That's something to be grateful for, actually.
+00:45:56,210 Checks complete. All monitors coming in loud and clear.
+00:45:59,590 Good work, you three. You can come on out now.
+00:46:04,800 Back up to file 101.
+00:46:07,300 Commencing LCL drain in three minutes.
+00:46:12,350 This may not be for me to say,
+00:46:14,430 but such severe damage is going to hinder our ability to run operations.
+00:46:18,400 Couldn't we just scrap the Vatican Treaty?
+00:46:21,270 I know.
+00:46:22,650 With each country only allowed possession of a maximum of three Evas,
+00:46:25,900 there's no leeway in operational units.
+00:46:27,990 Even now, our repair work is being prioritized for Unit-01.
+00:46:31,410 We're just barely managing by juggling all the spare parts,
+00:46:34,370 so we don't even know when we'll be able to repair Unit-00.
+00:46:37,620 The nationalistic ego of every country is tangled up in that Treaty.
+00:46:40,830 Getting it revised will be nearly impossible.
+00:46:43,000 On top of which, with their loss of Unit-05,
+00:46:45,840 Euro and Russia seem to be embroiling Asia in their various allegations.
+00:46:49,010 It gets to be something of a pain when politics enters the picture.
+00:46:52,220 There's too much to do before we can even get around to protecting mankind.
+00:47:04,190 Move! Move!
+00:47:10,410 Ooh, ow... That hurt...
+00:47:25,000 My glasses, my glasses...
+00:47:27,630 Um...
+00:47:29,510 Oh, sorry. Are you okay?
+00:47:35,010 Hello. Mari here.
+00:47:36,810 Yes, I seem to have glided off target.
+00:47:40,730 It looks like I'm in a school of some sort.
+00:47:44,020 What?!
+00:47:45,360 Well, you told me to enter into Japan covertly!
+00:47:49,570 Won't you have the Euro people work this out?
+00:47:52,820 Just be there for my extraction later, okay?
+00:47:55,870 Thanks.
+00:48:04,790 You smell good. I can smell LCL on you.
+00:48:11,720 You're interesting.
+00:48:14,300 Well, mum's the word. Okay, little Nerv doggy?
+00:48:29,480 Huh? That's strange...
+00:48:37,200 Hey. How about going on a date for once?
+00:48:41,540 I'm a guy.
+00:48:43,330 No problem.
+00:48:46,630 Gender has nothing to do with love.
+00:48:53,090 I'm kidding.
+00:48:56,260 Here.
+00:49:10,190 The smell of dirt...
+00:49:13,070 Worn out already?
+00:49:16,070 I expect to get the labor I paid for.
+00:49:18,740 Paid for? You mean that can of coffee?
+00:49:23,910 And you called this a date.
+00:49:26,710 I thought you were a more serious person than this.
+00:49:29,630 For an adult, being more devious than not is just about perfect.
+00:49:37,010 If I remember right, these are watermelons, aren't they?
+00:49:39,930 Yeah. Cute, right?
+00:49:41,970 It's my hobby.
+00:49:43,810 Making things or growing things is great.
+00:49:47,650 It makes you see and understand all kinds of things.
+00:49:50,610 Like about enjoyment.
+00:49:53,400 And about suffering, too, right?
+00:49:55,990 Do you hate suffering?
+00:49:58,820 I don't like it.
+00:50:00,620 Did you find something that you enjoyed?
+00:50:05,160 That's fine, too. But people who know about suffering
+00:50:09,840 are capable of being kind to others that much more.
+00:50:12,170 And that's not the same as being weak.
+00:50:16,430 Do you like Katsuragi?
+00:50:21,430 M-Miss Misato?
+00:50:23,310 Uh, well... I don't not like her.
+00:50:26,980 Protect Katsuragi for me.
+00:50:30,730 That's something I can't do. Only you can.
+00:50:37,400 Please.
+00:51:08,520 Morning.
+00:51:11,100 Ayanami!
+00:51:11,980 A greeting?
+00:51:13,360 From Ayanami?
+00:51:17,320 Ayanami, are you okay now?
+00:51:19,990 Yes, I'm fine today.
+00:51:23,370 What happened to your hand?
+00:51:26,080 Dr. Akagi put them on for me just earlier.
+00:51:30,000 What were you doing?
+00:51:31,420 It's a secret.
+00:51:33,090 I'll tell you once I get a little better at it.
+00:51:46,640 Rei's changed.
+00:51:48,600 The idea of her doing something for someone else is mind-boggling.
+00:51:53,980 What could have brought this on?
+00:51:55,820 Maybe... it's love!
+00:51:57,570 Surely not. Impossible.
+00:52:04,490 I wonder if Idiot Shinji would prefer it to be milder.
+00:52:08,450 I'm back!
+00:52:10,250 Oh? Misato, you're early.
+00:52:13,080 I have to go right back to HQ.
+00:52:15,630 I only came home for a bath and change of clothes.
+00:52:19,630 Ooh!
+00:52:20,470 Whoa!
+00:52:21,880 Oh, my, my! Are you going to cook for Shin, too?
+00:52:27,010 What?!
+00:52:28,310 No! Um, it's for a girl... Y-Yeah, it's for Hikari!
+00:52:32,270 First Rei and now you. Getting romantic all of a sudden.
+00:52:35,360 What? Don't lump me in with that teacher's pet!
+00:52:37,570 Hmm, I suppose I shouldn't.
+00:52:39,030 Rei seems to have something more ambitious planned, after all.
+00:52:42,110 What do you mean?
+00:52:43,280 It looks like she wants to be the cupid
+00:52:45,870 who brings Commander Ikari and Shin together.
+00:52:49,120 "Invite everyone to a dinner party and serve a home-cooked meal"
+00:52:51,910 seems to be her plan of attack. It's so direct, it's going to pack a punch.
+00:52:56,420 Seriously, bringing that family closer together is no easy task.
+00:53:00,800 That girl's doing this for Idiot Shinji?
+00:53:03,300 It's a surprise, so no telling Shin, okay?
+00:53:08,100 As if I would!
+00:53:33,410 Vaporized?!
+00:53:35,420 Eva Unit-04 and Branch 2 were vaporized?
+00:53:38,920 This is data from ground zero at T plus 10.
+00:53:43,260 It's terrible.
+00:53:44,220 The satellite lets us verify that the AT field collapsed,
+00:53:47,640 but the specifics remain unknown.
+00:53:49,260 So Unit-04 was at the center, as we'd suspected.
+00:53:51,890 Tell me that our Evas are fine.
+00:53:54,020 Unit-04 was...!
+00:53:56,440 Unit-04 was the testbed for a new internal engine
+00:53:59,360 that was meant to solve our operational time limit issues.
+00:54:03,820 Or so I've heard.
+00:54:04,950 Nerv North America's R&D intel
+00:54:06,990 hasn't been extensively disclosed even to Dr. Akagi.
+00:54:10,620 Those who would know are...
+00:54:12,120 Eva Unit-04.
+00:54:14,330 It was an experimental unit aimed at acquiring data
+00:54:16,870 for the development of a next-generation Eva. Anything could have happened to it.
+00:54:21,290 But...
+00:54:25,220 Was it really an accident?
+00:54:57,910 Gimme three of these, ma'am.
+00:55:03,170 It's unusual for you to treat us, Toji.
+00:55:06,130 Yer so serious... I never thought you'd come hang out with us for a cheap snack, either.
+00:55:11,140 Why don't you be honest and say that your little sister's gotten better?
+00:55:15,310 Shaddup!
+00:55:16,060 Keep yer mouth shut 'bout what's none of yer business! Moron!
+00:55:23,570 Say, Ikari.
+00:55:25,780 So, Unit-03's coming to Japan?
+00:55:28,240 It is? I haven't heard anything.
+00:55:30,820 Rumor is, the US suddenly insisted that we take it,
+00:55:33,030 along with making us do the activation test.
+00:55:35,370 Well, I guess you rank and file pilots don't need to know about it.
+00:55:38,790 Say, who do you think will be piloting it?
+00:55:41,500 I don't know. I haven't heard anything.
+00:55:44,170 It must be so great to be a pilot! I wish they'd pick me!
+00:55:48,590 Don't look at me.
+00:55:50,130 Try asking Miss Misato.
+00:55:51,320 Damn, I didn't win.
+00:56:04,610 Evangelion Unit-05 was lost earlier...
+00:56:08,740 And now, Unit-04 has similarly been lost.
+00:56:12,200 The loss of the two units will hinder the progress of our plans, but...
+00:56:16,740 It is within correctable limits. There should be no problem.
+00:56:20,120 The American government has insisted on offering Eva-03 to you.
+00:56:24,750 Your country's government is amenable to this as well.
+00:56:27,800 It's a state-of-the-art unit.
+00:56:29,340 It should be good enough to be your main fire power.
+00:56:31,130 The elimination of Angels is being executed on an ongoing basis.
+00:56:34,390 An untested unit cannot be trusted.
+00:56:37,470 If you would approve the additional supplementary budget to repair Unit-00...
+00:56:41,600 The prototype's function is beginning to grow obsolete.
+00:56:44,850 Surely, you have no need of it.
+00:56:46,190 Indeed. There are other matters that should be given priority.
+00:56:50,030 The true Evangelion that we desire...
+00:56:53,240 With its birth and the resurrection of Lilith the time of the covenant will be upon us.
+00:56:58,240 The necessary rites must be performed by then.
+00:57:02,120 For the sake of the Human Instrumentality Project.
+00:57:05,130 I am aware of this.
+00:57:07,090 All will go according to Seele's plan.
+00:57:12,840 The true Evangelion.
+00:57:15,930 To serve as its forerunners until its completion...
+00:57:18,640 That's basically the job of all the current units, including Unit-01.
+00:57:22,390 And that's the Mark 06?
+00:57:25,020 So they've finally decided they want to create a real god instead of false ones.
+00:57:30,730 Yes.
+00:57:31,820 We must hasten the awakening of Unit-01.
+00:57:37,370 Eva Unit-02's core unit separation complete.
+00:57:41,410 Why is my Unit-02 being put into containment?!
+00:57:44,460 You know what the Vatican Treaty is, right?
+00:57:47,080 This is the condition in exchange for getting Unit-03.
+00:57:49,670 Unit-00's still in for repairs, so put it into containment!
+00:57:52,420 Euro still has possession of the pass to Unit-02.
+00:57:56,130 There's nothing we can do about it.
+00:57:58,300 And it has no designated pilot now, either.
+00:58:00,930 Sit tight until we receive further word from Euro.
+00:58:04,600 But no one can pilot it except me.
+00:58:07,190 The Evas are combat weapons.
+00:58:09,110 There's a backup for everything. That includes the pilot.
+00:58:13,820 No, it can't be...
+00:58:16,360 But this is the one place I belong in the entire world...
+00:58:43,930 The Evas mirror what's in our hearts.
+00:58:46,600 What was that?
+00:58:47,520 You don't have to be dependent on the Eva. There's happiness for you outside the Eva.
+00:58:52,860 Don't patronize me! You're just the teacher's pet!
+00:58:58,200 I was chosen to be a pilot on my merits, because I'm a genius!
+00:59:02,580 I'm not like you two, who got in through your connections!
+00:59:04,990 I'm just tied to it.
+00:59:07,870 I just don't have any ties with people except through the Eva.
+00:59:10,830 Shut up!
+00:59:11,880 Commander Ikari just favors you, because you're a prim doll,
+00:59:14,460 who does everything he says, right?!
+00:59:17,340 I'm not a doll.
+00:59:19,010 You are a doll! Have a little more self-awareness!
+00:59:33,860 You've got some nerve for a doll.
+00:59:43,070 I've got just one question for you. What do you think of that idiot?
+00:59:47,040 Idiot?
+00:59:47,870 "Idiot" as in "Idiot Shinji," of course.
+00:59:50,620 Ikari?
+00:59:52,250 Well?
+00:59:54,170 I don't really know.
+00:59:55,920 This is the problem with you Japanese!
+00:59:58,010 Say what you mean!
+00:59:59,630 I don't know.
+01:00:01,090 But being with Ikari makes me feel all warm inside.
+01:00:05,850 I want Ikari to feel all warm inside, too.
+01:00:09,930 I want him to get along with Commander Ikari
+01:00:12,400 and feel all warm inside.
+01:00:15,940 I get it.
+01:00:22,070 Seriously! Talk about profoundly ultra-idiotic!
+01:00:25,450 That means she likes him!
+01:00:33,500 I can't wait for this dinner party.
+01:00:36,340 But I wonder if Ayanami's cooking is going to be okay...
+01:00:43,110 I wish Father would come, too.
+01:00:46,260 The first unmanned solo activation test of the Dummy System...
+01:00:50,600 So that's the Dummy System.
+01:00:53,440 It is ostensibly nothing more than a support system for the pilot,
+01:00:56,270 but it is not only capable of autonomous control on its own,
+01:00:58,570 but it can even generate an AT field out of an unmanned unit.
+01:01:01,490 It is apparently more humane than making children pilot them.
+01:01:09,710 There's something about it that just rubs me the wrong way!
+01:01:15,540 It's a black box part direct from Golgotha Base, after all.
+01:01:18,840 So it's remained a mystery to us.
+01:01:22,170 Entrusting our Evas to something so sketchy just boggles my mind!
+01:01:26,640 Are you saying the Evas are safe in the hands of the pilots because they're human?
+01:01:31,350 Shinji sure has your trust.
+01:01:33,270 Or rather, I guess it's because of Shinji that you can say that.
+01:01:36,940 Never mind that.
+01:01:38,230 What about intel on the organization above us called Seele or something?
+01:01:41,480 Anything you can tell me?
+01:01:44,280 If you want to snoop around about that project, I'd advise against it.
+01:01:47,200 That's not an option for me. The Human Instrumentality Project...
+01:01:50,830 What is Nerv trying to do behind the scenes?
+01:01:53,620 That's...
+01:01:57,750 ...something I'd like to know, too.
+01:02:02,510 We haven't had a meal together in ages,
+01:02:05,050 and all we talk about is work, work, work!
+01:02:07,390 Things are different from when we were students.
+01:02:10,260 There's so much more that we're aware of... burdens we've taken on.
+01:02:13,930 I guess neither of us can afford to think only of ourselves anymore.
+01:02:17,560 And Shinji and the others are loaded down with an even greater burden.
+01:02:22,320 Yeah.
+01:02:23,480 It's too much for kids to have to bear.
+01:02:25,780 But we have no choice but to depend on them.
+01:02:34,870 Yes?
+01:02:36,710 Yes, I know.
+01:02:38,750 I'll make my decision by midnight.
+01:02:42,590 Ritsy?
+01:02:43,500 Yup. She's hounding me about the Unit-03 test pilot.
+01:02:47,010 Personnel decisions are your responsibility, after all.
+01:02:49,590 I know that, but...
+01:02:51,850 The schedule set for the arrival of Unit-03...
+01:02:55,930 Of all days, it's coming on this day.
+01:02:58,350 The day they scheduled the Unit-03 activation test for is...
+01:03:02,400 ...the day the teacher's pet had picked out.
+01:03:09,570 Up we go!
+01:03:32,220 I see. So you've settled on Asuka.
+01:03:35,770 Yes, I'll head for Matsushiro on the last flight out.
+01:03:39,310 I'll leave the rest to you, Maya.
+01:03:41,150 Yes, ma'am!
+01:03:43,190 Um, Dr. Akagi?
+01:03:47,570 I'd like to get a message to the Second Girl.
+01:03:50,910 Please.
+01:04:03,500 You have one new message.
+01:04:06,630 First message.
+01:04:10,220 Here, Rei, you can talk now.
+01:04:24,770 Damn it!
+01:04:25,490 Thank you.
+01:04:30,240 What is she, an idiot?!
+01:04:32,030 I'm only doing this because I want to pilot the Eva.
+01:04:38,660 If I like Unit-03, have it repainted red, okay?
+01:04:46,340 Good morning, Aida.
+01:04:47,550 Hey yo.
+01:04:49,340 Oh? Where's Toji?
+01:04:50,800 He's at the hospital in Odawara today.
+01:04:53,180 He said his little sister's being discharged.
+01:04:55,970 Oh, right.
+01:04:58,350 Message for you from Toji.
+01:04:59,720 "Don't ya worry 'bout it anymore. My sis's grateful, too."
+01:05:03,140 That's what he said.
+01:05:06,060 It's great how things have worked out, huh, Ikari?
+01:05:08,940 Yeah.
+01:05:10,110 You've been invited over by Ayanami today, right?
+01:05:14,990 Talk about lucky, you bastard!
+01:05:15,260 Whoa! I can't breathe!
+01:05:25,920 Mission director of the manned activation testing of the Eva Unit-03 has arrived
+01:05:30,000 and is currently heading toward the main control room.
+01:05:32,130 Temporary above-ground cage and restraint system checked. No abnormalities detected.
+01:05:34,120 Initiating hook-up of umbilical cable.
+01:05:38,470 Connector contact verified.
+01:05:40,350 Main power supply current switch complete.
+01:05:45,020 Entry plug anchored in insertion position.
+01:05:47,810 Checks done up through on the list. No problems found.
+01:05:50,780 Roger. Resume the countdown.
+01:05:52,940 Resuming countdown. All ground crew personnel begin evacuation.
+01:05:56,200 Test pilot medical checkups completed.
+01:05:58,240 Currently standing by in mobile quarantine chamber.
+01:06:00,910 Looks like I can hand over the rest to Ritsuko without any problems.
+01:06:05,080 Maintenance Team 6, evacuation complete.
+01:06:07,420 Secure line? From Asuka?
+01:06:12,920 What's up, Asuka? Thoughts before the show starts?
+01:06:15,550 I just felt like having a private chat with you for some reason.
+01:06:19,390 I see.
+01:06:21,180 I want to let you know again that I appreciate what you're doing today.
+01:06:24,520 Thank you.
+01:06:28,230 You don't need to thank me.
+01:06:31,230 It's the duty of the elite to help the ignorant masses, that's all.
+01:06:35,110 And I'm not big on eating with everyone anyway.
+01:06:38,320 And it's exhausting to have to pretend you're enjoying yourself
+01:06:40,950 along with everyone else.
+01:06:42,410 And I didn't want to have to sit around watching others be happy.
+01:06:45,370 And all I care about is piloting the Eva.
+01:06:47,710 And I like being by myself to begin with.
+01:06:50,210 And I had no use for phony friends.
+01:06:52,800 And there's never been anyone who's seen me for the real me.
+01:06:56,260 And as long as I have the top performance scores,
+01:06:58,550 I can make a living at Nerv.
+01:07:01,760 But some things happened recently
+01:07:03,470 that made me think being around other people isn't all bad.
+01:07:06,560 It's so not me, though.
+01:07:09,020 That's not true.
+01:07:11,020 Because you have a kind heart.
+01:07:13,730 You're the first one I've ever talked to like this.
+01:07:16,530 I feel better somehow.
+01:07:18,820 It feels nice to talk to someone.
+01:07:21,450 I had no idea.
+01:07:23,030 This world is brimming full of fun things you have no idea about.
+01:07:28,120 You should enjoy it.
+01:07:30,710 Yeah, you're right.
+01:07:33,290 Thank you, Misato.
+01:07:36,050 By the way, it's great that it's red, but...
+01:07:38,970 Don't you think this plug suit for the test...
+01:07:42,010 ...is too revealing?
+01:07:44,010 Begin entry sequence.
+01:07:45,470 LCL ionization, pressure levels--status green.
+01:07:48,270 Stage One Excited State holding steady.
+01:07:48,490 All test monitoring devices operating normally.
+01:07:50,230 Plug sensor, nominal.
+01:07:52,230 Inspected values are within the error range.
+01:07:54,360 Roger. Shift to Phase 2 operations.
+01:07:57,280 Initiate secondary connection.
+01:07:59,400 I hadn't realized... I know how to laugh.
+01:08:19,090 Plug depth is now over 100!
+01:08:20,840 Psychological contamination levels are now in the red zone!
+01:08:23,250 Why did it suddenly do this?!
+01:08:23,010 Pilot is descending below safe depths!
+01:08:25,930 Pull it back now! At this rate, the pilot will cease to be a human!
+01:08:28,390 Abort the test!
+01:08:29,530 Shut down all circuits!
+01:08:31,640 Negative! High energy readings within the Eva!
+01:08:35,360 It can't be...!
+01:08:37,150 An Angel?!
+01:08:51,620 An accidental explosion in Matsushiro?
+01:09:02,260 Damage report!
+01:09:03,370 Unknown. The temporary cage appears to be the blast epicenter.
+01:09:05,720 Destruction of above-ground control facilities confirmed.
+01:09:07,600 Immediately dispatch Rescue and 3rd Units.
+01:09:10,560 Get it resolved before the SSDF steps in.
+01:09:12,980 Roger.
+01:09:13,770 Unidentified moving object sighted southwest of the accident site.
+01:09:16,940 Pattern is orange.
+01:09:18,190 Unable to confirm whether it is an Angel.
+01:09:20,190 Battle Stations, Condition One.
+01:09:22,440 Ikari.
+01:09:23,280 All personnel to Battle Stations, Condition One.
+01:09:26,160 Place Unit-00 in for repairs on standby.
+01:09:28,410 Launch Unit-01 as soon as it's been switched out to a dummy plug.
+01:09:35,460 Deployment of 5th Tank Company to Defensive Line 18 complete.
+01:09:38,670 Connection of main power extension cable to be complete in two minutes.
+01:09:42,690 Backup mobile strike unit is in position.
+01:09:44,470 Um, what about Miss Misato and Asuka and the others?
+01:09:47,890 Currently, all efforts are being made to rescue them.
+01:09:50,390 Don't worry.
+01:09:51,970 But...
+01:09:53,430 Miss Misato isn't here and with no other Eva... There's nothing I can do by myself.
+01:09:58,360 Operationally, we're fine.
+01:10:00,570 Commander Ikari is directing this operation himself right now.
+01:10:03,440 Dad is?
+01:10:04,860 We have footage captured near Tomi.
+01:10:06,820 Patching it through to main monitor.
+01:10:13,750 Just as we had feared...
+01:10:15,460 Send shutdown signal.
+01:10:17,330 Force eject the entry plug.
+01:10:21,800 No good. It isn't recognizing the shutdown or the plug ejection code.
+01:10:26,260 Encroachment of a core-like substance confirmed near the entry plug area.
+01:10:29,600 We have the pattern analysis.
+01:10:31,390 It's blue.
+01:10:32,640 As of this moment, we are scrapping Evangelion Unit-03.
+01:10:36,600 Object under surveillance will be identified as the 9th Angel.
+01:10:40,190 Target approaching.
+01:10:42,070 Prepare to intercept ground-to-ground.
+01:10:44,070 Blockade units, open fire!
+01:10:48,070 It can't be!
+01:10:49,160 An Angel?! This is an Angel?!
+01:10:51,240 That's right, that's your target.
+01:10:53,620 Target?
+01:10:55,660 But this is...
+01:10:57,370 ...an Eva!
+01:11:00,920 This can't be...
+01:11:02,420 The target is approaching.
+01:11:04,670 You must defeat it.
+01:11:05,920 You call it a target, but...
+01:11:13,850 Isn't Asuka on board?
+01:11:19,560 Asuka is...
+01:11:44,170 Damn it!
+01:11:46,550 The entry plug!
+01:11:48,420 So she is on board!
+01:12:25,460 Armor being corroded near cervical vertebrae!
+01:12:28,010 Contamination confirmed through Layer 6200!
+01:12:30,590 As we had feared, an invasive type. This will be tricky.
+01:12:34,010 Unit-01's AT field is unstable!
+01:12:36,100 Life support system malfunctioning!
+01:12:38,100 Any more of this and the pilot will be in danger!
+01:12:40,390 This is bad! Cut the neural connections to 28%!
+01:12:43,560 Wait.
+01:12:44,400 But Ikari, the pilot will die at this rate!
+01:12:47,360 Shinji, why won't you fight?
+01:12:50,990 Because... Asuka's on board, Dad!
+01:12:53,610 It doesn't matter. That's an Angel. It's our enemy.
+01:12:57,530 But I can't do it!
+01:13:00,250 I can't murder her!
+01:13:02,160 You're going to die.
+01:13:03,460 I don't care! Better than killing Asuka!
+01:13:07,290 No matter.
+01:13:08,500 Cut the pilot's synchronization with Unit-01 across the board.
+01:13:11,260 Ikari?
+01:13:12,080 Cut it, sir?
+01:13:12,880 That's right. Switch control over to the Dummy System.
+01:13:15,930 But the Dummy System still has a lot of problems
+01:13:19,600 and without Dr. Akagi's instruction...
+01:13:21,600 It will be of more use than the current pilot.
+01:13:24,190 Do it!
+01:13:25,600 Yes, sir.
+01:13:49,500 What is this?
+01:13:59,350 What are you doing, Dad?!
+01:14:01,270 Main control system switchover complete.
+01:14:03,680 Energy conduction efficiency is unimpeded.
+01:14:03,680 All neural circuits directly connected to Dummy System.
+01:14:07,150 AT field stable, recovered to Level B.
+01:14:07,150 Dummy System operational time limit is a maximum of 208 seconds.
+01:14:11,020 Fine. Release the System. Commence attack.
+01:14:46,190 Is this the power of the Dummy System?
+01:14:48,810 Dummy System functioning normally.
+01:14:50,400 Control limiters being released.
+01:15:59,720 What is this, Dad?
+01:16:02,260 What is this?
+01:16:03,970 What are you doing?!
+01:16:07,390 Damn it!
+01:16:08,270 Stop!
+01:16:09,310 Stop, stop, stop, stop, stop, stop, stop, stop...
+01:16:14,450 Stop, stop, stop, stop, stop stop, stop, stop!
+01:16:21,950 What's that sound?
+01:16:25,520 Don't do it!
+01:16:28,980 No!
+01:16:55,230 Found another one over here! A survivor!
+01:16:57,070 Team 3, delete the data from 807. Quickly!
+01:16:57,070 Send a rescue team over here, stat!
+01:16:59,190 That's right.
+01:16:59,190 Incinerate all surveillance recorders in the contaminated zone.
+01:17:03,820 Close Route 18 to all traffic!
+01:17:03,820 Don't let the SSDF in for at least another ten minutes!
+01:17:07,830 I'm alive?
+01:17:12,210 Kaji?
+01:17:13,120 You were lucky, Katsuragi.
+01:17:16,210 What about Ritsuko?
+01:17:17,630 No worries. Her wounds were more minor than yours.
+01:17:22,340 I see.
+01:17:25,220 Asuka! What about Eva Unit-03?
+01:17:27,600 It was apparently disposed of... as an Angel.
+01:17:30,970 By Unit-01.
+01:17:43,400 Unit-01's synchronization circuits have been cut.
+01:17:46,240 What about the ejection signal?
+01:17:47,660 It has been locked out from inside the plug.
+01:17:49,830 He's literally locked himself in there.
+01:17:51,290 Don't do this, Shinji!
+01:17:52,660 Think about what you're doing!
+01:17:55,210 Don't make me even angrier by saying things like that.
+01:17:59,130 Unit-01 has 285 seconds left.
+01:18:02,170 With that much time, I can destroy at least half of headquarters.
+01:18:05,050 In his current state, he might very well do it.
+01:18:07,260 Shinji, please listen to us!
+01:18:09,600 You may have been killed if Commander Ikari hadn't made his decision!
+01:18:13,980 That doesn't matter.
+01:18:15,480 But it's the truth!
+01:18:17,400 I told you, that doesn't matter!
+01:18:20,440 Dad tried... That bastard tried to kill Asuka!
+01:18:24,490 Using me!
+01:18:28,240 Why?!
+01:18:29,570 Why?! Why did you do it?!
+01:18:32,660 You don't understand at all, Dad!
+01:18:35,330 I was a fool for trusting you!
+01:18:37,870 You should lose someone you care about, too, Dad!
+01:18:41,000 Then, you'd understand!
+01:18:42,670 Raise the LCL compression density right up to the limit.
+01:18:45,440 What?!
+01:18:46,220 We have no time to put up with a child's tantrum.
+01:18:50,100 I still have the direct control circuits...
+01:18:55,100 Damn it all!
+01:18:57,230 Damn it all...
+01:19:18,330 Ikari, you're always listening to that, aren't you?
+01:19:22,500 Yeah. It's something Dad used to use.
+01:19:26,630 Just like your glasses, Ayanami.
+01:19:28,760 But he didn't need it anymore, so he left it behind.
+01:19:31,600 Just like me.
+01:19:33,100 It was at my teacher's place, so I took it.
+01:19:36,980 When I close up my ears, I can close up my heart.
+01:19:40,150 That way, I don't have to deal with the nasty world out there.
+01:19:42,690 Nasty world?
+01:19:44,400 That's right.
+01:19:45,900 The world where the father I hate lives.
+01:19:48,570 The world where the scary Angels and Evas exist.
+01:19:50,950 The world where I'm forced to do painful things.
+01:19:53,200 The world where Dad doesn't need me as long as he has the Dummy.
+01:19:56,200 The world where my friends get hurt.
+01:20:00,000 Even so, good things happened, too.
+01:20:02,040 But in the end, it all gets destroyed.
+01:20:04,710 It's a nasty world.
+01:20:07,050 I'm going to turn my back on it now.
+01:20:09,550 I thought that if I did this, Dad would protect me from the nasty world.
+01:20:14,220 I'd tricked myself into believing that.
+01:20:17,310 Did you try to understand your father, Ikari?
+01:20:20,480 I did.
+01:20:22,310 Are you sure you didn't just do nothing?
+01:20:24,940 I did try to understand him!
+01:20:27,280 My dad's the one in the wrong! He's the one who abandoned me!
+01:20:32,450 And so, you're running away from the things you don't like again.
+01:20:36,030 So what?!
+01:20:37,700 What's wrong with running away from the things I don't like?!
+01:20:44,210 This place again.
+01:20:48,170 I'm sick of this.
+01:20:53,130 Verify all instructions on recovering fragments of Unit-
+01:20:57,720 with the Technology Division.
+01:21:08,400 Her cellular tissue is clear of any trace of the invasion,
+01:21:11,610 but there's the possibility she was psychologically contaminated by the Angel.
+01:21:15,070 We have no choice but to keep her under quarantine.
+01:21:17,620 They wouldn't possibly do away with her, right?
+01:21:20,540 She's a valuable sample specimen.
+01:21:22,540 They would never.
+01:21:26,880 Come out, Shinji Ikari.
+01:21:28,880 Commander Ikari will see you now.
+01:21:33,800 Insubordination. Seizing an Eva for your own personal use.
+01:21:37,050 Making crude threats. These are all criminal acts.
+01:21:41,220 Do you have anything to say for yourself?
+01:21:44,020 Yes.
+01:21:45,480 I do not want to pilot the Eva anymore.
+01:21:48,020 I see. Then leave.
+01:21:53,190 Running away again?
+01:21:57,910 Your dreams are something you have to sacrifice everything for
+01:22:00,950 and attain for yourself.
+01:22:03,620 No one will do it for you.
+01:22:06,630 Grow up, Shinji.
+01:22:10,050 I don't know what it's supposed to mean to be a grownup.
+01:22:22,350 It's me. Strike the Third Boy from the records.
+01:22:25,600 From now on, the primary operator of Unit-01 will be the Dummy System.
+01:22:29,480 No backup will be necessary.
+01:22:32,780 I guess Rei didn't stop Shinji from leaving.
+01:22:36,240 I was hoping she'd do something, since she'd shown signs of changing lately.
+01:22:39,700 The relationships between those kids is unfathomable.
+01:22:42,620 But now, we're back down to one pilot again.
+01:22:45,830 Back to square one.
+01:22:55,260 I'm sure you know this,
+01:22:57,470 but even though you've been stricken from Nerv's records,
+01:22:59,800 you'll still be under surveillance
+01:23:01,550 and your actions will be restricted pretty heavily.
+01:23:05,560 You forgot this.
+01:23:07,230 Suzuhara and Aida left you a lot of messages.
+01:23:10,480 They're worried about you.
+01:23:12,150 I don't really want it. It's something I left behind.
+01:23:16,110 You haven't asked after Rei or Asuka, either.
+01:23:21,450 The truth is, maybe I don't care about humanity or the world, either.
+01:23:28,120 Ultimately, I've ended up in my current position,
+01:23:32,130 but at first, I just wanted to get a little closer to my late father.
+01:23:36,630 And that's why I signed up with Nerv.
+01:23:39,380 Just like how you piloted the Eva
+01:23:41,890 because you wanted Commander Ikari to need you.
+01:23:45,140 Which is why I found myself living vicariously through you.
+01:23:50,350 And I know that you felt burdened by it.
+01:23:53,940 I also know that you've become disillusioned with your purpose in piloting the Eva.
+01:23:58,280 But even so, I want you to...
+01:24:08,870 That day...
+01:24:10,420 Rei had invited Commander Ikari, too.
+01:24:13,880 She wanted you to become closer with your father.
+01:24:18,050 She wanted you two to laugh together.
+01:24:21,470 I'll never be able to laugh with anyone again.
+01:24:30,140 The next stop is Kamigora. Kamigora.
+01:24:34,060 The exits will be to your left.
+01:24:38,900 The Japanese government has declared a state of emergency.
+01:24:41,200 In accordance with the emergency regulations,
+01:24:43,240 this train will stop at the nearest evacuation station.
+01:24:48,450 After disembarking, please head straight for your designated platform
+01:24:52,040 and board the evacuation incline.
+01:24:53,540 It's an Angel.
+01:24:55,380 Eva Unit-02 containment measures have been unlocked.
+01:24:58,050 Final safety systems have been disabled.
+01:24:58,430 We are currently opening up Silo 2.
+01:25:00,130 Core unit automatic reconfiguration sequence has begun.
+01:25:03,010 Man, it's cold!
+01:25:06,010 There we go.
+01:25:08,680 That's the new model for you!
+01:25:10,480 It even fits me perfectly in the chest. Feels so good!
+01:25:19,980 The time has come.
+01:25:22,450 All personnel, Battle Stations, Condition One.
+01:25:24,820 Prepare to intercept ground-to-air.
+01:25:26,830 Target's status?
+01:25:27,720 Currently advancing on us.
+01:25:29,200 It has breached the Old Odawara defensive line.
+01:25:54,560 This is no laughing matter if the shockwave can be felt all the way down here.
+01:25:58,230 Direct hit on District 4. Damages unknown.
+01:26:00,690 Surface and all armor systems have been liquefied!
+01:26:02,610 All 24 layers of specialized armor with one strike?!
+01:26:05,450 The 10th Angel. The most powerful rejection type...
+01:26:09,240 Its destructive power is greater than we'd imagined.
+01:26:12,580 This is all-out war!
+01:26:13,790 Put all the fortified city's intercept equipment to specialized use!
+01:26:16,750 Hold it at bay, even if it's just for a little while!
+01:26:21,880 Eva Unit-02?! Who's piloting it?!
+01:26:24,510 Unknown! We did not order its launch!
+01:26:41,720 Target still active.
+01:26:42,710 Second wave of attack had no effect.
+01:26:44,240 I don't care! Evacuating the residents gets top priority!
+01:26:45,860 Authorizing third wave of guided N2 missiles! Send them in as direct support!
+01:26:49,160 If we send the Eva to the surface to intercept, it'll be too late.
+01:26:51,410 Request Euro's cooperation. Deploy Unit-02 to the Geofront.
+01:26:54,950 How's Unit-00?
+01:26:55,620 Making emergency repairs to the left arm. It'll be just good enough to launch.
+01:26:58,460 Send it to back up Unit-02 as soon as it's done.
+01:27:00,840 Going out there alone will be dangerous.
+01:27:02,480 Roger!
+01:27:03,050 And Unit-01?
+01:27:04,050 Currently preparing to activate with the Dummy System.
+01:27:06,420 Hurry it up!
+01:27:11,350 That's in the direction of the city, right?
+01:27:12,310 Oh, man, what's going on?
+01:27:14,060 It'll be fine. We're headed straight for the Geofront shelter.
+01:27:15,810 Phone's aren't working, either!
+01:27:16,540 The safest place in the world.
+01:27:24,110 Target entering the Geofront!
+01:27:26,240 About to make contact with Eva Unit-02!
+01:27:27,570 Do we have communications with Unit-02?
+01:27:29,070 The two-way link has been cut. Making contact from our end is...
+01:27:32,370 I see.
+01:27:34,540 So you want to do this alone.
+01:27:43,670 It smells so good.
+01:27:45,420 An Eva that smells like someone else isn't bad, either.
+01:27:49,180 It's already breached the fifth line of defense.
+01:27:51,800 If I don't get this wrapped up quick, HQ is a goner!
+01:28:11,700 Its AT field's too strong.
+01:28:14,240 I won't get anywhere from this distance.
+01:28:17,040 Hup.
+01:28:18,410 Ho.
+01:28:19,540 Hah!
+01:28:21,870 Guess I'll make a go of it with this.
+01:28:27,670 Let's see how you like this!
+01:28:35,970 If I get it from point-blank range...
+01:28:55,620 Oh, crap!
+01:29:03,420 Why you little...! Talk about a toughie!
+01:29:06,500 Dummy System connected.
+01:29:08,590 Initiate contact.
+01:29:09,960 Yes, ma'am.
+01:29:11,620 What happened?
+01:29:12,130 The core unit has rejected the Dummy!
+01:29:14,220 It's no use! Unit-01 won't activate!
+01:29:19,140 It's refusing to accept the Dummy?
+01:29:21,730 Fuyutsuki.
+01:29:23,520 Take care of things for a while.
+01:29:25,650 Up we go.
+01:29:28,480 I won't be able to win at this rate.
+01:29:31,690 All right! Guess I'll give it a try.
+01:29:34,320 I'm going to see what an Eva can do when it abandons its humanity.
+01:29:38,370 Invert mode.
+01:29:39,700 Backdoor code... "The Beast!"
+01:29:53,800 Bear with it, Eva Unit-02.
+01:29:57,180 I'll bear with it, too.
+01:30:03,980 I had no idea an Eva had such functionality!
+01:30:05,560 The restrictors are being disengaged! All readings are outside the standard range!
+01:30:09,400 Unable to monitor plug interior! But...
+01:30:11,580 Plug depth is likely in the negative range.
+01:30:13,610 To think she's even willing to plunge into the contamination zone...
+01:30:16,280 We can't allow this! It's too dangerous!
+01:30:18,830 Nothing ventured,
+01:30:24,080 nothing...
+01:30:28,500 ...gained!
+01:30:49,650 Just a little more!
+01:31:22,140 The Eva's bestial second form.
+01:31:24,640 Even when it abandoned its humanity and focused solely on combat, it couldn't win.
+01:31:28,390 So this is the limit of our capabilities.
+01:31:31,480 Unit-00?!
+01:31:33,150 She doesn't even have a rifle!
+01:31:37,860 Don't tell me...!
+01:31:38,910 Rei, don't! Rei!
+01:31:46,040 AT field at maximum!
+01:31:50,920 I'll make it so Ikari...
+01:31:54,000 ...never has to pilot the Eva again!
+01:31:56,840 So, I'll...
+01:32:10,100 A single Eva won't be able to get through that AT field.
+01:32:20,950 Unit-02, this is your final task!
+01:32:26,450 Just one more layer!
+01:32:37,760 Run, Unit-02 pilot.
+01:32:40,130 Thank you.
+01:32:53,650 Where's Unit-00?
+01:33:10,410 This shelter has been designated as being in an unsafe area.
+01:33:13,710 Please evacuate to a safe area at once.
+01:33:16,790 I repeat. This shelter...
+01:33:27,310 Ow, that hurt...
+01:33:30,310 I almost wound up dead there.
+01:33:33,390 Oh?
+01:33:34,560 What are you doing here?
+01:33:36,980 I was wondering where the other unit was. Now I know.
+01:33:42,190 I...
+01:33:44,160 I made up my mind not to pilot it anymore.
+01:33:49,040 Questioning whether to pilot an Eva or not?
+01:33:51,500 I had no idea anyone ever agonized over something like that.
+01:33:54,540 Then you should just get out of here already.
+01:33:58,130 Here, I'll help you.
+01:34:04,380 I made up my mind not to pilot it.
+01:34:06,090 I made up my mind not to pilot it. I made up my mind not to pilot it.
+01:34:08,970 But you know...
+01:34:10,810 There's no fun in being all twisted and sorry for yourself.
+01:34:59,650 This can't be! An Angel devouring an Eva?
+01:35:02,780 That's impossible!
+01:35:03,960 Something's strange.
+01:35:05,110 The target's ID signal is switching over to that of Unit-00!
+01:35:08,450 We've been had!
+01:35:09,450 The Dogma won't self-destruct now, even if the Angel enters!
+01:35:12,620 It'll be able to get to Lilith with ease.
+01:35:15,250 It's merging with Unit-00.
+01:35:18,500 It assimilated the Eva, pilot and all.
+01:35:22,210 You're going to end up dead, too.
+01:35:24,840 Hurry up and run.
+01:35:37,560 Aw, there he goes...
+01:36:04,170 Above-ground HQ facilities annihilated!
+01:36:06,010 Foundation 3 has suffered a direct hit!
+01:36:07,150 Final armor plating has been liquefied!
+01:36:08,720 No! The main shaft is completely exposed!
+01:36:11,970 Is Unit-01 still not ready?
+01:36:17,140 Unable to anchor plug in place!
+01:36:18,770 Dummy System rejecting connection signal!
+01:36:19,780 It's no use! The reset isn't working!
+01:36:21,730 Keep going. Start over again from 308.
+01:36:25,120 List 308, begin checking.
+01:36:26,940 Why?
+01:36:28,400 Why do you reject me, Yui?
+01:36:31,780 Please let me pilot it!
+01:36:33,780 Let me... Let me...
+01:36:36,700 ...pilot Unit-01!
+01:36:43,000 What are you doing here?
+01:36:47,710 Dad!
+01:36:49,010 I am...
+01:36:50,300 ...the Evangelion Unit-01 pilot,
+01:36:52,720 Shinji Ikari!
+01:36:58,060 Target descending through Terminal Dogma, Layer 7!
+01:37:01,060 Target has passed Layer 7!
+01:37:03,020 It's coming here!
+01:37:04,060 Evacuate noncombatants!
+01:37:05,730 Emergency evacuation of noncombatants!
+01:37:07,020 I repeat. Emergency evacuation of noncombatants! Hurry!
+01:37:21,540 Eva Unit-01?!
+01:37:23,920 Shinji!
+01:37:47,940 Miss Misato!
+01:37:48,770 Disengage all locks!
+01:38:18,430 I'm out of power?
+01:38:19,930 Unit-01 has reached its operational limit! The auxiliary is down, too!
+01:38:23,480 Shinji!
+01:38:40,960 Shinji!
+01:38:47,330 Give back...
+01:38:50,130 ...Ayanami!
+01:38:55,090 It's moving...?
+01:38:56,930 But it's supposed to be at its operational limit...
+01:39:01,010 Has it gone berserk?
+01:39:02,030 I don't know...
+01:39:03,560 ...what in the world is happening to Unit-01.
+01:39:53,020 The Eva has powers like that?
+01:39:55,030 Unit-01 is transcending the limits of humanity?
+01:39:58,610 Plug depth is over 180!
+01:40:00,950 He's already in danger!
+01:40:02,410 Stop this, Shinji!
+01:40:04,080 You won't be able to come back to humanity!
+01:40:06,580 I don't care what happens to me.
+01:40:09,160 I don't care what happens to the world.
+01:40:11,250 But Ayanami...
+01:40:14,000 If it's the last thing I do,
+01:40:16,420 I'm saving Ayanami, no matter what!
+01:40:31,520 Go, Shinji!
+01:40:32,900 Misato?!
+01:40:35,400 Don't do it for someone else!
+01:40:38,190 Do it for the sake of what you want yourself!
+01:40:51,670 Where are you, Ayanami?!
+01:40:55,040 It's no use.
+01:40:56,920 I can only survive in here now.
+01:41:00,260 Ayanami?!
+01:41:01,510 It's okay, Ikari.
+01:41:03,680 Even if I disappear, there are replacements.
+01:41:06,220 There are replacements.
+01:41:07,510 You're wrong! You're the only Ayanami there is!
+01:41:11,140 So I'm going to save you now!
+01:41:31,450 Oh no!
+01:41:33,290 The restrictors regulating its shape are gone!
+01:41:35,880 Unable to analyze!
+01:41:37,380 The Eva we had contained with the bounds of humanity
+01:41:40,090 is reclaiming its rightful shape.
+01:41:42,590 Breaking free of humanity's spell,
+01:41:45,010 it's transcending humanity, turning into a nearly divine being.
+01:41:49,590 Inside the huge swells of complementarity, it's binding together the heavens, the earth,
+01:41:56,080 and all creation, transforming into an energy condensate.
+01:41:59,940 Purely to grant the wish of a human being.
+01:42:03,060 For that and nothing else.
+01:42:34,050 Ayanami!
+01:42:53,230 Ayanami!
+01:43:15,470 Ayanami!
+01:43:21,940 Come on!
+01:43:57,850 They forced Unit-01 to become the catalyst before they had their pieces in place.
+01:44:02,520 Commander Ikari, Seele isn't going to take this lying down.
+01:44:07,030 I want to spread my wings in this big open sky
+01:44:07,280 Just as we had thought, between those two, they were able to awaken Unit-01.
+01:44:11,450 Yes.
+01:44:12,490 We have just a little more to go until we attain our plan.
+01:44:21,350 Ayanami, thank you for the thing with my dad.
+01:44:26,760 I'm sorry, I wasn't able to do anything.
+01:44:30,590 It doesn't matter now.
+01:44:34,100 This is enough.
+01:44:44,690 Now I see... He gets all the breaks.
+01:44:48,650 I wonder if it's the difference in smell, after all.
+01:45:25,230 This is the birth of a new lifeform that's grown beyond this world's Logos.
+01:45:30,540 And as the price for that... ...all life forms of old shall perish.
+01:45:39,710 Wings...
+01:45:41,740 Just like the ones 15 years ago...
+01:45:45,310 Yes, the continuation of the Second Impact...
+01:45:48,710 The Third Impact is beginning!
+01:45:51,920 The world is ending.
+01:51:14,410 What in the world was that?!
+01:51:20,500 Now, the promised time has come, Shinji Ikari.
+01:51:25,170 This time for sure,
+01:51:27,880 I'll make you happy, if no one else.
+01:51:33,970 Eva Unit-01 is put into suspension with Rei and Shinji still inside.
+01:51:37,230 The fortified city is scrapped.
+01:51:38,690 Nerv personnel are incarcerated.
+01:51:40,610 Eva Unit-06 is dropped into the Dogma.
+01:51:42,980 Eva Unit-08, which comes to life, and its pilot.
+01:51:45,650 The children with destiny built into them finally come together.
+01:51:48,490 Where, oh, where will the tale of the people who wish to live lead us?
+01:51:53,160 Next Time, "Evangelion New Theatrical Edition: Q."
+01:51:56,330 Now, then, more fan service coming next time!

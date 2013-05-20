@@ -1,0 +1,868 @@
+00:03:39,257  <i>Sections 2 and 3 of the East Wing will close at 1800 hours.</i>
+00:03:44,462  <i>All staff must vacate the area by 1630.</i>
+00:03:49,066  Misato and Ayanami scare me.
+00:03:54,038  Help me. Help me, Asuka.
+00:04:01,646  Hey, wake up. Hey...
+00:04:06,951  wake up!
+00:04:09,987  Hey, hey...
+00:04:12,423  Asuka... Asuka... Asuka!
+00:04:22,600  Help me.
+00:04:24,769  Please help me.
+00:04:27,238  Help me.
+00:04:29,340  Help me.
+00:04:32,443  Help me!
+00:04:33,978  Call me an idiot like you always do!
+00:04:38,950  Hey!
+00:05:25,863  I'm so fucked up.
+00:05:31,369  All access to and from Headquarters has been restricted?
+00:05:34,505  We're on First Level Alert.
+00:05:36,941  That doesn't make sense. I thought Kaoru was the last Angel.
+00:05:40,578  He was. All the Angels have been defeated.
+00:05:43,514  If we're all safe, what are we doing on First Level Alert?
+00:05:46,284  What's going to happen to NERV and the Evas?
+00:05:49,287  I wish Dr. Akagi was here.
+00:05:51,055  NERV will probably be disbanded.
+00:05:54,125  I don't know what they're going to do with us.
+00:05:57,194  All we can do is wait for the Instrumentality Project to commence.
+00:06:05,570  So mankind, a race of flawed and incomplete separate entities,
+00:06:08,639  has reached the end of its evolutionary potential.
+00:06:12,710  The Instrumentality Project will manufacture the evolution...
+00:06:16,614  of man's separate entities into a single consummate being.
+00:06:19,717  And the Committee won't use NERV or Adam.
+00:06:21,953  They'll use the Evas.
+00:06:23,521  Just like Kaji said they would.
+00:06:25,890  The time is at hand.
+00:06:28,059  Without the Lance of Longinus,
+00:06:30,595  we cannot use Lilith to complete the Project.
+00:06:33,097  Our only hope is to proceed using Lilith's only true offspring,
+00:06:36,934  Eva Unit 01.
+00:06:38,469  That was not part of SEELE's original plan.
+00:06:41,572  Creating the Evangelion was the pinnacle of mankind's existence.
+00:06:45,643  Humanity must evolve and shape this brave new world.
+00:06:49,046  That was why we created the Eva Series.
+00:06:51,449  We need not cast aside our human form...
+00:06:53,651  to use Evangelion as our own private Ark.
+00:06:56,454  it's merely part of the process to free us all for rebirth.
+00:07:02,026  The fate of destruction is also the joy of rebirth.
+00:07:05,329  Through the sacrament of death, God, and humanity,
+00:07:07,932  all living beings will be united and reborn as one.
+00:07:11,035  Death creates nothing.
+00:07:13,337  You deserve death.
+00:07:17,808  Mankind exists because it has the will to live.
+00:07:22,046  That is the will of she who chose to remain in the Eva.
+00:08:29,480  So, that's what really happened during Second Impact.
+00:08:34,585  They're on to me!
+00:08:39,590  No, wait, something else.
+00:08:43,160  it's begun.
+00:08:46,063  We are under attack.
+00:08:48,466  Transfer the left to the emergency communications systems!
+00:08:51,502  Use satellite feed if you have to!
+00:08:53,237  Correct. What's the right side status?
+00:08:55,339  Negative. All outgoing network lines are being systematically cut off!
+00:08:59,844  They're going after the MAGI.
+00:09:02,279  Data upload from external terminals.
+00:09:04,448  They're trying to hack into the MAGI, sir!
+00:09:06,817  Just as I thought.
+00:09:08,085  Isit coming from the MAGI 2 in Matsushiro?
+00:09:10,287  No, there are 5 MAGI systems working together.
+00:09:12,556  So far I've identified the MAGI from Germany, China, and the U.S.
+00:09:15,559  SEELE is pooling all its resources.
+00:09:18,395  Five MAGI against one. Not good odds.
+00:09:22,500  The fourth firewall has been breached!
+00:09:24,602  Locking the main database...
+00:09:26,737  Negative! The system is being overtaken!
+00:09:28,873  They've breached the next level! The backup system is inoperative!
+00:09:33,010  This is bad.
+00:09:34,478  If they capture the MAGI, they will be able to occupy headquarters.
+00:09:47,958  Let me guess.
+00:09:49,593  They need help with the MAGI's self-defense system.
+00:09:52,196  Yes. Report to the Second Command Center...
+00:09:54,231  where you will be briefed by Lt. Ibuki.
+00:09:56,700  He expects the woman he abandoned to jump when he calls.
+00:10:00,304  Arrogant bastard.
+00:10:02,940  <i>A Level 2 Alert is in effect.</i>
+00:10:05,709  Status report.
+00:10:07,111  <i>Good morning. Tokyo launched Special Order A-801.</i>
+00:10:11,715  801?
+00:10:12,850  <i>NERV's legal protection and jurisdiction have been rescinded...</i>
+00:10:15,653  <i>and command has been transferred to the Japanese Government.</i>
+00:10:20,224  That was the only warning. They tried to take the MAGI,
+00:10:23,494  but we've managed to contain the damage so far.
+00:10:27,398  Ibuki here.
+00:10:28,465  Dr. Akagi is currently installing additional defense programs.
+00:10:35,139  Ritsuko?!
+00:10:46,150  Am I doing something stupid?
+00:10:49,453  The interaction between men and women is so illogical.
+00:10:55,192  Isn't that right...
+00:10:58,062  Mother?
+00:11:00,231  Goura Ground circuit recovery 0.2%.
+00:11:03,734  How much longer?
+00:11:05,436  We should make it. Dr. Akagi is amazing!
+00:11:09,073  Just hacking into the MAGI? Yeah, right.
+00:11:11,475  I doubt they're going to let us off that easily.
+00:11:14,778  The MAGI was just foreplay.
+00:11:16,580  They plan to launch an all-out offensive against Headquarters...
+00:11:19,783  and take the two Evas by force, don't they?
+00:11:22,753  Of course. We have both Adam and Lilith.
+00:11:27,892  No wonder the old men are so nervous.
+00:11:33,564  External feed to the MAGI has been halted.
+00:11:36,066  A Danang B-Type Defense program is in place.
+00:11:38,202  External access has been cut off for the next 62 hours.
+00:11:48,512  Mother. I'll see you soon.
+00:11:50,981  Ikari has installed a Type 666 firewall on the MAGI's externaI feed circuits.
+00:11:55,419  That's very difficult to breach.
+00:11:57,621  Apparently we will have to forgo acquisition of the Tokyo-3 MAGI.
+00:12:01,258  I had hoped to settle this peacefully.
+00:12:06,063  Launch the invasion forces immediately!
+00:12:18,809  All units move out as planned.
+00:12:50,341  We have lost the radar feed from sectors 8-17!
+00:12:53,077  A large detachment of Special Force Units...
+00:12:55,012  has invaded the outer defense perimeter!
+00:12:56,847  Two more are approaching from the Gotenba sector!
+00:12:59,817  After all we've been through, our final enemy is our fellow man.
+00:13:03,921  All personnel go to Level One battle stations.
+00:13:06,657  Battle stations?!
+00:13:09,226  But they're human, not Angels!
+00:13:13,130  I wish they felt the same way.
+00:13:39,223  What's happening?! Hey!
+00:13:40,924  What's wrong?
+00:13:42,059  Transmission from the southern hub has been-
+00:13:55,839  The Daigatake tunnel has been cut off!
+00:13:57,674  Fire in the West No. 5 entrance!
+00:13:59,710  Hostile forces have entered Level 1!
+00:14:02,746  The west side attack is a decoy!
+00:14:04,982  If they're really after the Evas, they'll go after the pilots first.
+00:14:08,018  - Tell Shinji to stand by in Unit 01. - Roger!
+00:14:11,188  - Where's Asuka? - Still in recovery room 303.
+00:14:14,491  Get her into Unit 02!
+00:14:16,593  There's no way she can synchronize with Unit 02!
+00:14:20,164  If they find her, they're going to kill her.
+00:14:22,599  If we put her in Unit 02, at least she'll be safe.
+00:14:25,069  Understood!
+00:14:26,537  As soon as Asuka's in there, hide Unit 02 at the bottom of the lake.
+00:14:30,374  it's not the best hiding place, but it's better than the cage.
+00:14:33,010  - Where's Rei? - Unable to locate!
+00:14:34,812  Pilot of Unit 00 is missing!
+00:14:37,314  She will be killed. Find her, now!
+00:14:57,801  Launching Unit via gate number 8.
+00:14:59,570  The Eva will remain underwater at a depth of 70 meters.
+00:15:02,005  Prepare to deploy Unit 01. Station it in the Geofront.
+00:15:05,609  We can't! Shinji isn't there!
+00:15:10,681  Oh, dear god...
+00:15:12,349  <i>Full lock down has been instigated, starting at Level 2.</i>
+00:15:15,219  <i>All non-combat personnel must evacuate via route 87 immediately. I repeat...</i>
+00:15:23,894  The No. 3 underground barricade has been destroyed!
+00:15:26,163  Enemy forces have begun invading Level 2!
+00:15:28,565  There's nothing we can do to hold them off.
+00:15:31,135  Our defeat has become inevitable.
+00:15:34,805  Professor Fuyutsuki, please see to the rest of this for me.
+00:15:37,941  Yes, Commander. Give my regards to Yui.
+00:16:05,135  No response from Level 2!
+00:16:06,970  Contact has been lost with control room 77.
+00:16:09,640  Internal monorail track has been destroyed.
+00:16:12,309  This is brutal! I'd rather be fighting the Angels!
+00:16:15,779  Of course. We're not used to fighting human enemies.
+00:16:30,227  Sever the red ones first.
+00:16:38,702  Level 3 Block B has been invaded! There's no stopping them!
+00:16:42,239  Enemy presence confirmed in Block F!
+00:16:44,074  The Main bypass is under fire!
+00:16:46,443  Seal off leveIs 1-3! Order a full retreat!
+00:16:49,713  Release Bakelite through all passages up through section 803!
+00:16:53,684  Right!
+00:16:54,851  <i>Commencing Bakelite release in section 703,</i>
+00:16:57,688  <i>thirty seconds to completion.</i>
+00:16:59,590  <i>Commencing Bakelite release in section 737...</i>
+00:17:02,593  Well, that should buy us some time.
+00:17:05,095  Major Katsuragi! Route 47 is completely blocked.
+00:17:07,831  The third Unit is unable to advance. Shinji is cut off!
+00:17:18,108  All non-combat personnel should avoid engaging the enemy.
+00:17:22,179  These guys are pros,
+00:17:23,647  so if you can't retreat to Central Dogma...
+00:17:25,649  you're better off just surrendering.
+00:17:28,051  - Take charge of things here for me. - Right.
+00:17:32,889  Mt. Futagoyama has been secured.
+00:17:34,591  This is harder than we thought.
+00:17:36,526  We never get the easy jobs.
+00:17:39,730  This is insane! The center wasn't made to withstand invading armies.
+00:17:45,936  We can barely hold off terrorists.
+00:17:47,871  if the JSSDF launches a full-scale attack, we're screwed.
+00:17:52,576  Slowly but surely they've been cutting our defense budget.
+00:17:55,812  They've probably been planning this since the very beginning.
+00:17:58,615  Very possible...
+00:18:11,328  Release the safety.
+00:18:14,231  I can't. I just can't shoot this thing.
+00:18:17,601  Of course you can! You've had basic training!
+00:18:19,936  But I shot at targets, not at other human beings!
+00:18:23,907  Idiot! it's kill or be killed!
+00:18:41,992  Rei.
+00:18:50,067  I knew I'd find you here.
+00:18:58,842  The time has come. Let's go.
+00:19:04,881  Level 1 has been secured. Over.
+00:19:07,517  <i>Roger that. We are moving in on the MAGI and the Level 2 Command Center.</i>
+00:19:11,121  <i>We are currently engaged in combat.</i>
+00:19:13,357  <i>Commence cooling of the Fifth Malbolgia sector immediately.</i>
+00:19:21,965  <i>Terminate Eva Pilots on sight.</i>
+00:19:23,867  <i>Execution of non-combat personnel has been authorized.</i>
+00:19:26,603  <i>Yanagihara and Shinjo units, proceed to lower level.</i>
+00:19:35,178  We've located the Third Child. Commencing termination.
+00:19:40,350  Sorry, kid. Nothing personal.
+00:19:51,194  Nothing personal here either.
+00:19:57,167  Let's get you to Unit 01. Come on.
+00:20:04,808  <i>Roger that. We have the purple unit surrounded.</i>
+00:20:06,943  <i>The Bakelite infusion was not a problem.</i>
+00:20:13,049  Damn. They're trying to prevent contact between Shinji and Unit 01.
+00:20:18,855  We're running out of time.
+00:20:21,158  This is it, Shinji.
+00:20:24,895  Do you want to run away or do you want to pilot the Eva?
+00:20:30,467  If you sit there and do nothing, then you're already dead!
+00:20:33,370  Help me, Asuka... help me.
+00:20:36,072  Hiding behind the skirts of a little girl at a time like this?!
+00:20:40,377  Giving up halfway is worse than never trying at all!
+00:20:44,047  Get up.
+00:20:46,950  Move it!
+00:20:48,819  I want to die. I don't want to do anything.
+00:20:53,056  Stop talking like a stubborn little brat!
+00:20:55,158  Like it or not, you're still alive!
+00:20:57,327  Get moving and DO something! You can die later.
+00:21:04,000  Unimportant!
+00:21:05,135  Securing Terminal Dogma is your top priority, understand?!
+00:21:12,776  They've destroyed everything else,
+00:21:14,277  why don't they just nuke us and get it over with?!
+00:21:16,346  If we weren't sitting on top of the original MAGI system,
+00:21:19,716  they probably would have.
+00:21:21,785  They probably need it in as intact as they can get it.
+00:21:24,488  I just hope they don't use BC weapons.
+00:21:26,857  Things could get pretty ugly.
+00:21:28,492  That or N2 mines.
+00:21:53,383  Speak of the devil...
+00:21:54,751  They aren't holding anything back!
+00:21:56,853  They're over doing it.
+00:22:05,195  Why do they want the Eva this badly?!
+00:22:08,732  They plan to initiate Third Impact...
+00:22:11,167  using the Eva series instead of the Angels.
+00:22:14,504  15 years ago, the Second Impact was intentionally engineered by mankind,
+00:22:19,042  because it was the only way to minimize the potential damage.
+00:22:22,679  They had to reduce Adam to an embryonic state...
+00:22:25,649  before the other Angels awoke.
+00:22:29,586  You see, Shinji, mankind was spawned from a being called Lilith,
+00:22:34,558  just like Adam was.
+00:22:37,861  We are the 18th Angel.
+00:22:40,363  The other Angels are just different possibilities of...
+00:22:43,233  what we could have become.
+00:22:45,902  Sadly, we can't coexist...
+00:22:49,005  even though we are fundamentally the same creatures.
+00:22:53,610  Listen, Shinji. You have to destroy the rest of the Eva Series.
+00:22:58,081  it's the only way to stay alive.
+00:23:01,751  The phone lines are all dead.
+00:23:04,888  Nagano Prefecture, Neo Tokyo confirmed three minutes ago.
+00:23:06,990  Yes, sir. Missile impact was Executive Office Number
+00:23:08,858  Prime Minister's Official Residence NERV was secretly researching...
+00:23:10,193  This Instrumentality Project NERV was secretly researching...
+00:23:13,363  trying to initiate Third Impact and destroy all of mankind.
+00:23:18,301  The whole thing makes me sick.
+00:23:20,203  Humanity is probably the only creature...
+00:23:22,639  capable of hating its own kind.
+00:23:24,741  Well, then. I suppose all we have left to do...
+00:23:27,310  is destroy NERV Headquarters.
+00:23:29,446  Should Germany or China begin re-development?
+00:23:32,449  No. We won't make the same mistake twice.
+00:23:34,751  Make sure no one can touch it for the next 20 years, like Old Tokyo.
+00:23:41,858  <i>Surface heat has dissipated.</i>
+00:23:43,326  <i>High pressure steam discharges have also stopped.</i>
+00:23:46,029  <i>All detachments' positions have been confirmed.</i>
+00:23:48,665  Dogma Level 3 and the purple unit are currently secured.
+00:23:52,702  And the red one?
+00:23:54,204  In the lake, about 70 meters down.
+00:23:56,773  We don't know if the pilot is alive or dead.
+00:24:11,521  I'm still alive...?
+00:24:45,989  I don't want to die. I don't want to die.
+00:24:50,193  I don't want to die. I don't want to die.
+00:24:54,130  I don't want to die. I don't want to die.
+00:24:59,736  <i>You're still alive...</i>
+00:25:03,039  <i>You mustn't die yet...</i>
+00:25:06,810  <i>You must live...</i>
+00:25:10,680  <i>I won't let you die...</i>
+00:25:12,682  <i>I will protect you...</i>
+00:25:14,918  <i>You're still alive...</i>
+00:25:18,221  <i>I won't let you die...</i>
+00:25:20,857  <i>You mustn't die...</i>
+00:25:24,360  <i>Please die with me!</i>
+00:25:26,329  <i>Don't kill her...</i>
+00:25:27,864  I don't want to die. I don't want to die.
+00:25:31,868  I don't want to die. I don't want to die.
+00:25:36,172  <i>You must live...</i>
+00:25:39,109  I don't WANT TO DIE!!!!
+00:25:47,016  Mamma! You've been here all along?
+00:25:56,126  Mamma!!
+00:26:04,901  - What is that?! - Dear God!
+00:26:37,100  Mamma... Mamma! Now I understand!
+00:26:42,472  The meaning of the AT Field!
+00:26:46,843  You were always protecting me!
+00:26:51,714  Always watching over me!
+00:27:08,698  We were always together! Mamma!
+00:27:16,072  <i>Eva Unit 02 has activated! Asuka is okay! She's alive!</i>
+00:27:19,642  Asuka?!
+00:27:24,547  The cable!
+00:27:25,815  Focus your fire power on that cable!
+00:27:33,790  Even without my umbilical cable,
+00:27:36,926  I've still got 12 thousand plates of fortified armor!
+00:27:42,866  And I've got my AT Field!
+00:27:49,239  There's no way I can lose!
+00:27:54,077  Not to you bastards!
+00:28:18,401  That loathsome Evangelion.
+00:28:21,337  Once again, our plans will go unrealized.
+00:28:24,440  It seems we'll have to fight fire with fire.
+00:28:58,408  The Eva Series?
+00:29:00,009  it's been completed?
+00:29:08,985  They've dispatched all 9 units equipped with S2 engines?
+00:29:13,323  That seems a bit much.
+00:29:15,391  Unless... do they plan to start it here?!
+00:29:37,547  Listen up, Asuka. I want you to destroy the rest of the Eva series.
+00:29:41,918  Shinji will be there as soon as he can.
+00:29:43,853  Hang in there.
+00:29:45,455  So, we can get to Unit through Access route 20, right?
+00:29:49,225  <i>Affirmative. We placed triple protection on the power supply.</i>
+00:29:51,761  <i>So long as you get there in the next three minutes,</i>
+00:29:53,863  <i>it'll take you directly to cage 7.</i>
+00:30:10,013  "Destroy the rest of the Eva Series, " huh?
+00:30:13,282  Isthat any way to talk to someone fresh out of the hospital?
+00:30:17,720  Nine units in only three and a half minutes...
+00:30:19,989  so that's 20 seconds each.
+00:30:42,979  Erste!
+00:30:52,188  This is it.
+00:31:01,764  They got away.
+00:31:03,166  Target has not been terminated. Should we pursue them?
+00:31:06,569  <i>Negative.</i>
+00:31:07,637  <i>That area has been targeted for demolition.</i>
+00:31:09,439  <i>Pull back immediately.</i>
+00:31:10,807  Roger.
+00:31:14,243  Well, that should hold them off for a while.
+00:31:22,051  Don't worry. it's not as bad as it looks.
+00:31:32,228  The power is still on. There's still time.
+00:31:41,237  Shinji, listen to me.
+00:31:43,406  From now on, you're on your own.
+00:31:45,641  You'll have to make your own decisions.
+00:31:50,246  I... I can't. I'm no good.
+00:31:55,218  I can't pilot Eva if all I do is hurt and kill people.
+00:32:02,625  I thought I had no choice but to pilot Eva,
+00:32:06,129  but I was just lying to myself.
+00:32:08,197  I'm not worthy of piloting an Eva because I don't understand anything!
+00:32:11,868  I'm incapable of doing anything good for anyone else.
+00:32:16,973  I did something terrible to Asuka.
+00:32:19,709  I killed Kaoru.
+00:32:22,044  I'm a horrible person. I'm dishonest and a coward.
+00:32:25,515  All I ever do is hurt other people, so I'd rather do nothing at all!
+00:32:30,386  I'm not going to feel sorry for you.
+00:32:32,321  If you don't like feeling pain, then you can just sit here and die.
+00:32:37,493  Crying isn't going to solve anything, either!
+00:32:42,832  You hate yourself, don't you? That's why you hurt others.
+00:32:46,269  Deep down you know that you suffer more...
+00:32:48,771  when you cause someone else pain, than if you just let yourself get hurt.
+00:32:53,442  But, Shinji, that was YOUR decision, so that makes it a valid choice.
+00:32:57,847  That was what you wanted, so that makes it worthwhile.
+00:33:02,218  Stop lying to yourself, and realize that you DO have options.
+00:33:06,255  Then accept the choices you've made.
+00:33:09,158  But you're not me.
+00:33:11,994  You don't understand!
+00:33:15,631  So what if I'm not you?!
+00:33:17,833  That doesn't mean it's okay for you to give up!
+00:33:22,738  If you do, I'll NEVER forgive you as long as I live.
+00:33:27,210  I'm not perfect either.
+00:33:29,545  I've made tons of stupid mistakes and later I regretted them.
+00:33:32,848  And I've done it over and over again.
+00:33:35,685  A cycle of hollow joy and vicious self-hatred.
+00:33:38,754  But even so, every time I learned something about myself.
+00:33:43,392  Please, Shinji.
+00:33:45,161  You've got to pilot Eva and settle this once and for all.
+00:33:50,399  Find out why you came here.
+00:33:54,036  Why you exist at all.
+00:33:57,873  And when you've found your answers,
+00:34:01,410  come back to me.
+00:34:10,686  Promise me.
+00:34:15,258  See you soon.
+00:34:32,074  That was a grown-up kiss.
+00:34:34,510  We'll do the rest when you get back.
+00:34:51,594  If I had known it would like end this,
+00:34:54,597  I would have changed the carpet like Asuka suggested.
+00:35:01,671  Right, Pen Pen?
+00:35:05,775  Kaji... I did the right thing, didn't I?
+00:36:34,430  <i>Damn, they're persistent.</i>
+00:36:37,166  <i>Of course that idiot Shinji is nowhere to be found!</i>
+00:37:15,438  I've been waiting for you.
+00:37:56,879  I'm sorry...
+00:37:59,615  but I changed the MAGI's programming without telling you.
+00:38:05,387  A loving daughter's final request.
+00:38:08,123  Mother, let's end it together.
+00:38:18,667  it's not working Why?!
+00:38:20,269  ACCESS DENIED
+00:38:22,137  Casper betrayed me?!
+00:38:23,906  Mother, how could you chose your lover instead of me?
+00:38:29,845  Ritsuko Akagi.
+00:38:32,214  I truly...
+00:38:41,190  Liar.
+00:38:51,834  What's happening up there?
+00:38:53,102  Less than a minute left in her power reserves.
+00:38:56,171  At this rate, Asuka will-
+00:39:02,211  I cannot be defeated!!
+00:39:04,380  <i>Mama is watching after me!</i>
+00:39:09,418  Mama?
+00:39:11,620  Mother!
+00:39:18,060  This is the last one!
+00:39:44,687  The Lance of Longinus?
+00:40:10,245  Internal power supply depleted. Operational limit has been reached.
+00:40:14,450  Unit 02 has gone silent.
+00:40:19,455  What the-
+00:40:21,490  The defeated Eva Series...
+00:40:38,841  The Eva Series units have reactivated!
+00:40:49,084  Are they going to finish her off?
+00:41:04,600  What's happening?!
+00:41:05,834  I don't want to see this! I can't watch!
+00:41:09,505  Isthat Unit 02?
+00:41:25,854  I'll kill you. I'll kill you.
+00:41:31,493  I'll kill you. I'll kill you. I'll kill you. I'll kill you.
+00:41:36,131  I'll kill you.
+00:41:42,671  I'll kill you. I'll kill you. I'll kill you.
+00:41:46,341  I'll kill you. I'll kill you.
+00:41:51,280  Berserker!
+00:41:52,414  Stop it. Asuka! Stop!!
+00:41:55,617  I'll kill you. I'll kill you.
+00:41:58,887  I'll kill you. I'll kill you. I'll kill you.
+00:42:03,025  I'll kill you. I'll kill you.
+00:42:13,836  <i>Shinji! Unit 02!</i>
+00:42:16,605  <i>Asuka is- Asuka!!</i>
+00:42:19,174  I can't get to Eva.
+00:42:21,710  There's nothing I can do.
+00:42:35,190  Mother.
+00:42:40,395  Unit 01 has finally awoken.
+00:43:00,749  Evangelion Unit 01!
+00:43:02,785  The devil himself.
+00:43:15,964  Asuka...
+00:43:32,948  To Be Continued...
+00:48:23,705  I wish to express my HEARTFELT gratitude to the cast, staff, friends,
+00:48:26,708  and the five women who helped bring this picture to its completion.
+00:48:29,678  Thank you very much. Hideaki Anno
+00:48:34,816  I have already joined with Adam.
+00:48:38,019  The only way I will ever see my Yui again,
+00:48:41,089  is through the forbidden fusion of Adam and Lilith.
+00:48:47,195  We're running out of time.
+00:48:48,897  Your AT Field won't hold its shape for much longer.
+00:48:52,801  Let us begin, Rei.
+00:48:55,237  Release your AT Field, the barrier of your mind.
+00:48:58,607  Make our imperfect souls whole again.
+00:49:00,842  Discard this unnecessary physical shape.
+00:49:03,111  Merge all souls into one.
+00:49:05,747  And then, take me to Yui's side.
+00:49:22,898  EPISODE
+00:49:24,499  My Purest Heart For You
+00:49:36,077  Asuka.
+00:49:49,024  Ikari.
+00:49:58,433  There's an object approaching at tremendous speed from Lunar space.
+00:50:01,636  What the hell?!
+00:50:05,340  it's not- it's the Lance of Longinus!
+00:50:17,319  At long last, our dreams will be realized.
+00:50:20,121  The original Lance of Longinus has been returned to us.
+00:50:24,159  We have fewer Units than we planned, but we'll have to make do.
+00:50:28,430  Bring forth the true form of the Eva series.
+00:50:32,500  The true form will evangelize humanity.
+00:50:38,006  Through indiscriminate death and through prayer,
+00:50:40,976  we will return to our original state.
+00:50:43,745  And our souls will be at peace.
+00:50:47,082  Let the sacrament begin.
+00:51:03,965  Eva Unit 01 has been captured!
+00:51:06,368  Ascending to 12,000 meters! And still rising.
+00:51:09,771  Those bastards!
+00:51:10,972  Does SEELE plan to use Unit 01 as a medium?
+00:51:23,285  Eva Unit 01 has been marked with the Holy Stigmata.
+00:51:26,621  Let us restore the Tree of Life!
+00:51:30,392  The Eva series have been our faithful servants...
+00:51:33,962  and this is the reason they were created.
+00:51:45,240  The Eva Series has unleashed their S2 engines!
+00:51:47,542  Dimensional values are inverting.
+00:51:50,712  Numerical expression and measurement is impossible!
+00:51:53,548  it's an Anti-AT Field.
+00:52:00,388  it's the same as what happened 15 years ago.
+00:52:05,527  Has Third Impact actually begun?
+00:52:13,668  The S2 engines have reached critical limit.
+00:52:15,503  We're unable to maintain gravitational control.
+00:52:19,507  Our mission is a failure.
+00:52:30,051  Direct hit! Surface ground layers are melting!
+00:52:32,554  The second wave is eroding the headquarters periphery!
+00:52:35,423  The outer hull has been exposed!
+00:52:41,730  These are only physical shock waves!
+00:52:44,132  Set absorbers on maximum. It should hold.
+00:53:00,548  Here to represent eternity...
+00:53:02,984  The Red Earth Purification Ceremony.
+00:53:05,887  First the Geofront is returned to...
+00:53:08,056  its original form.
+00:53:18,533  The Egg of Lilith, source of all human life.
+00:53:23,171  The Black Moon.
+00:53:25,240  We no longer wish to return inside her shell.
+00:53:30,111  But that is for Lilith to decide.
+00:53:34,682  It appears to have begun.
+00:53:37,252  Now, Rei, it's time to reunite me with Yui once more.
+00:53:42,624  What?!
+00:53:44,259  I am not a puppet.
+00:53:48,563  But why?
+00:53:49,631  Because I am not you.
+00:53:54,502  Rei!
+00:54:00,742  Please,
+00:54:02,310  Wait! Rei!
+00:54:04,479  I can't. Ikari is calling me.
+00:54:07,949  Rei!
+00:54:14,055  I'm home.
+00:54:15,177  "Welcome Home "
+00:55:05,093  Rei.
+00:55:06,161  An unidentified high energy object from Terminal Dogma...
+00:55:08,964  is approaching rapidly!
+00:55:10,866  AT Field confirmed! Pattern Blue!
+00:55:14,069  Not an Angel?
+00:55:15,504  Negative! it's a... a human!
+00:55:50,806  Dammit, dammit!
+00:56:15,497  Ayanami?!
+00:56:18,867  Rei...
+00:56:28,477  Through the destruction of the Ego of Eva Unit 01 's pilot,
+00:56:32,280  humanity shall now be completed.
+00:56:35,383  The Third Retribution is at hand.
+00:56:46,728  The AT Fields of the Eva Series are all resonating!
+00:56:49,664  Resonation is increasing!
+00:56:51,566  Have they begun merging with Rei?
+00:57:16,458  Psychograph signal down!
+00:57:18,293  Destrado has begun to manifest!
+00:57:20,896  The pilot's ego won't be able to take much more of this.
+00:57:30,105  I can't take it anymore.
+00:57:32,807  I can't take it anymore. I can't take it anymore.
+00:57:38,480  I can't take it anymore. I can't take it anymore.
+00:57:42,517  Isthis better?
+00:57:46,621  Have you been there the whole time, Kaoru?
+00:58:13,081  The solenoid graph is inverting! His ego barrier is getting weaker!
+00:58:17,252  AT Field is shift to pattern red!
+00:58:20,088  The Fruit of Life is held by the Angels.
+00:58:22,958  The Fruit of Wisdom is held by man.
+00:58:25,427  Eva Unit 01 now posses them both, and, therefore, becomes God.
+00:58:32,567  Now the Source of all souls,
+00:58:34,836  the Tree of Life has been formed again.
+00:58:38,406  will it be an Ark to save mankind from the vacuum of Third impact?
+00:58:43,712  Or is it the demon that will destroy us all?
+00:58:46,915  The fate of mankind now lies in the hands of Ikari's son.
+00:58:50,185  Tell me, have we done the right thing?
+00:58:53,255  How should I know?!
+00:58:58,760  This Rei is your heart.
+00:59:02,697  She embodies your hopes and your dreams.
+00:59:06,234  What is it you wish for?
+00:59:33,795  <i>I see.</i>
+00:59:36,231  <i>it's just like when I first started playing the cello.</i>
+00:59:39,768  <i>I thought if I came here,</i>
+00:59:42,003  <i>I would find what I was looking for.</i>
+00:59:45,440  Hey, Shinji! C'mon!
+00:59:47,175  Let's build a sand castle!
+01:00:06,828  Look, Mama's here!
+01:00:08,163  We gotta go now!
+01:00:09,631  Bye!
+01:00:11,132  Mama!
+01:00:14,169  Mama!
+01:02:03,845  Enough already!
+01:02:05,747  Even just the sight of you gets on my nerves!
+01:02:08,683  Because I'm just like you?
+01:02:10,084  Mama!
+01:02:11,653  Mama.
+01:02:13,154  Mama.
+01:02:14,322  <i>I wasn't able to be a mother to Shinji in the end.</i>
+01:02:19,561  Let's do it.
+01:02:22,163  Again? I thought you were meeting your friend at school today.
+01:02:26,734  Oh yeah, Ritsuko. Don't worry, I've got plenty of time.
+01:02:31,539  We've been hanging around here for the past week.
+01:02:34,809  Yeah, but I think I'm finally starting to get the hang of it.
+01:02:38,079  C'mere.
+01:02:44,285  <i>I guess I just do things like that...</i>
+01:02:49,190  <i>to prove I exist.</i>
+01:02:52,026  <i>That's stupid!</i>
+01:02:53,628  <i>it's just two depressed grown-ups licking each other's wounds!</i>
+01:02:57,098  <i>it's nice to feel needed, even if it's just physically.</i>
+01:02:59,801  <i>It makes me feel wanted, and so it makes me happy.</i>
+01:03:03,071  <i>it's just an easy way to convince yourself...</i>
+01:03:05,473  <i>that you're worth something.</i>
+01:03:08,543  <i>Does Misato really do things like that?</i>
+01:03:12,213  <i>Yes, this is also me.</i>
+01:03:15,817  <i>The me that exists when two hearts are joined as one.</i>
+01:03:19,153  <i>The me that Shinji has never known.</i>
+01:03:21,155  <i>Reality can be painful,</i>
+01:03:23,491  <i>but it's something that you must learn to accept.</i>
+01:03:27,395  When I grow up, does that mean I'll do the same things Misato does?
+01:03:32,934  You wanna kiss me?
+01:03:34,936  You can't.
+01:03:35,870  Why? Are you scared?
+01:03:37,505  That stuff's not for kids.
+01:03:39,641  Here I come!
+01:03:42,977  You don't understand anything.
+01:03:45,146  You just stay away from me!
+01:03:47,181  I do understand.
+01:03:48,583  You couldn't possibly, you big JERK!
+01:03:50,885  You really think you can ever know me?
+01:03:53,922  You think you can even help me?!
+01:03:57,392  I can't believe how arrogant you are!
+01:04:00,161  You will NEVER understand!!
+01:04:03,398  How can I ever understand you if you won't say anything?
+01:04:07,035  You never talk to me, but you expect me to understand you.
+01:04:09,737  That's IMPOSSIBLE!!
+01:04:11,272  Did you ever really try, Ikari?
+01:04:14,008  Of course I did.
+01:04:15,109  Idiot!
+01:04:16,544  I know all about your little jerk off fantasies about me.
+01:04:20,214  Go ahead and do it like you always do.
+01:04:22,784  I'll even stand here and watch you.
+01:04:25,520  If I can't have you all to myself, then I don't want anything from you.
+01:04:31,426  Then, try being nice to me.
+01:04:33,795  We are nice to you.
+01:04:35,663  Liars!
+01:04:36,965  You're just hiding behind those smiles,
+01:04:38,733  intentionally keeping things ambiguous!
+01:04:41,436  Because the truth causes everyone pain...
+01:04:44,138  because the truth is very, very traumatic.
+01:04:46,674  But ambiguity only causes me more pain.
+01:04:49,611  That's just an excuse.
+01:04:51,012  But it scares me,
+01:04:53,047  because I don't know if everyone will stop wanting me again.
+01:04:55,750  I feeI awkward and uneasy. Let me hear your voice!
+01:04:59,954  Don't leave me!
+01:05:01,656  Please care about me!
+01:05:15,169  I want to help you, Asuka, and I want to stay with you.
+01:05:19,107  Then, don't do anything.
+01:05:21,509  Don't come near me.
+01:05:23,611  All you ever do is hurt me.
+01:05:26,514  Asuka, help me.
+01:05:28,616  You're the only one that can help me!
+01:05:32,286  Liar.
+01:05:35,490  Anyone will do. You don't care who it is!
+01:05:37,859  You're afraid of Misato and the First child!
+01:05:39,761  You're afraid of your mother and father, too!
+01:05:41,696  So now you come running to me...
+01:05:44,032  because that's the easiest way to keep from getting hurt!
+01:05:46,501  I need you to help me!
+01:05:48,169  You never even loved yourself!
+01:05:52,840  You're all you have, and you never even learned to like yourself.
+01:06:03,551  Pathetic.
+01:06:08,923  Help me.
+01:06:12,293  Somebody please help me.
+01:06:20,068  Help me.
+01:06:22,804  Help me.
+01:06:24,906  Somebody help me!
+01:06:27,775  Don't leave me alone!
+01:06:29,277  Don't abandon me!
+01:06:31,079  Please don't kill me!
+01:06:39,620  No.
+01:07:15,323  Episode One: Angel Attack
+01:07:15,389  Episode Two: Unfamiliar Ceiling
+01:07:15,490  Episode Three: The Phone That Never Rings
+01:07:15,556  Episode Four: Rain, After Running Away
+01:07:15,656  Episode Five: Rei, Beyond Her Heart
+01:07:15,723  Episode Six: Showdown In Tokyo-
+01:07:15,823  Episode Seven: Human Creation
+01:07:15,923  Episode Eight: Asuka Strikes
+01:07:15,990  Episode Nine: With One Accord In A Flash
+01:07:16,090  Episode Ten: Magma Diver
+01:07:16,157  Episode Eleven: In The Still Darkness
+01:07:16,257  Episode Twelve: The Value Of A Miracle Is
+01:07:16,324  Episode Thirteen: Angel Invasion
+01:07:16,424  Episode Fourteen: SEELE, Throne of Souls
+01:07:16,491  Episode Fifteen: Lies And Silence
+01:07:16,591  Episode Sixteen: Sickness Unto Death, And...
+01:07:16,657  Episode Seventeen: The Fourth Child
+01:07:16,758  Episode Eighteen: The Judgement of Life
+01:07:16,824  Episode Nineteen:A Man's Fight
+01:07:16,891  Episode Twenty: Form Of The Mind, Form Of Man
+01:07:16,991  Episode Twenty One: The Birth Of NERV
+01:07:17,091  Episode Twenty Two: At Least, Be Humane
+01:07:17,158  Episode Twenty Three: Tear
+01:07:17,258  Episode Twenty Four
+01:07:17,325  The Final Messenger
+01:07:17,425  Episode Twenty Five: The End Of The World
+01:07:18,292  <i>No one understands me.</i>
+01:07:19,994  <i>You never understood anything.</i>
+01:07:21,896  <i>I thought this was supposed to be a world without pain,</i>
+01:07:24,265  <i>and without uncertainty.</i>
+01:07:25,666  <i>That's because you thought that everyone else felt the same as you do.</i>
+01:07:29,403  <i>You betrayed me! You betrayed my feelings!</i>
+01:07:32,707  <i>You misunderstood from the very beginning.</i>
+01:07:34,709  <i>You just believed what you wanted to believe.</i>
+01:07:37,078  <i>Nobody wants me, so they can all just die.</i>
+01:07:40,615  <i>Then what is your hand for?</i>
+01:07:43,284  <i>Nobody cares whether or not I exist.</i>
+01:07:46,254  <i>Nothing ever changes, so they can all just die!</i>
+01:07:49,056  <i>Then tell me, what is your heart for?</i>
+01:07:52,326  <i>It would be better if I never existed.</i>
+01:07:54,529  <i>I should just die, too.</i>
+01:07:56,430  <i>Then why are you here?</i>
+01:07:59,367  <i>Isit okay for me to be here?</i>
+01:08:02,670  ( silence )
+01:08:09,477  Pilot response approaching infinite zero!
+01:08:12,613  Eva Series and Geofront are approaching the E layer...
+01:08:15,750  and still rising!
+01:08:21,389  <i>Current altitude is
+220,000 kilometers.</i>
+01:08:24,158  <i>Now Entering F layer.</i>
+01:08:25,726  All Eva units are operational!
+01:08:27,461  The Anti-AT Field from Lilith is expanding and materializing!
+01:08:55,223  Anti-AT Field has exceeded critical limits!
+01:08:57,925  If this continues,
+01:08:58,993  individual entities will be unable to maintain their separate forms!
+01:09:09,170  The Chamber of Guf is open.
+01:09:11,172  The door to both the beginning and the end of the world...
+01:09:15,176  is open at last.
+01:09:24,018  <i>This world is overflowing with sorrow.</i>
+01:09:27,355  <i>its people are drowning in emptiness.</i>
+01:09:30,791  <i>Loneliness fills their hearts.</i>
+01:09:46,240  Ikari, did you also finally get to see Yui again?
+01:09:53,014  The AT Fields. The AT Fields are all disappearing.
+01:09:57,485  Isthis the answer? Isthis what I was looking for?
+01:10:04,659  Ritsuko?
+01:10:06,928  Maya.
+01:10:09,563  Ritsuko. Ritsuko. Ritsuko.
+01:10:12,266  Ritsuko!!
+01:10:15,703  The beginning and the end are one and the same.
+01:10:19,206  Yes, all is right with the world.
+01:10:29,450  I've waited so long for this moment to arrive.
+01:10:34,155  I will finally be with you again, Yui.
+01:10:37,925  When Shinji is near me, all I ever do is cause him pain.
+01:10:42,930  It was better when I did nothing at all.
+01:10:46,300  Were you afraid of Shinji?
+01:10:48,736  I didn't believe that anyone could love me.
+01:10:52,673  I don't deserve to be loved.
+01:10:55,209  So you were running away.
+01:10:57,979  You rejected the others so that you would never be hurt.
+01:11:02,283  You were terrified by the invisible bonds that people form.
+01:11:06,721  You were afraid, and so you closed your heart.
+01:11:11,492  This is my retribution.
+01:11:14,128  Forgive me, Shinji.
+01:12:57,131  Ayanami Rei.
+01:13:03,404  <i>I hate you.</i>
+01:13:04,472  <i>Don't call me anymore.</i>
+01:13:07,208  <i>You bother me.</i>
+01:13:09,643  <i>God, you're persistent.</i>
+01:13:11,278  <i>Goodbye!</i>
+01:13:12,346  <i>I wish you'd leave.</i>
+01:13:16,350  <i>I have no interest in getting back together with you.</i>
+01:13:19,653  <i>Let's just be friends.</i>
+01:13:22,790  <i>Do I even know you?</i>
+01:13:25,626  <i>Look at you!</i>
+01:13:27,695  <i>You really get on my nerves.</i>
+01:13:30,364  <i>Who the hell are you?</i>
+01:13:33,167  <i>I couldn't care less whether you live or die.</i>
+01:13:36,337  <i>I don't love you "that way. "</i>
+01:13:40,107  <i>I don't want you in my life.</i>
+01:13:42,443  <i>To be honest, you get on my nerves.</i>
+01:13:45,346  <i>Stop following me around.</i>
+01:13:47,481  <i>I can't do this any more.</i>
+01:13:49,884  <i>Let's break up.</i>
+01:13:52,419  <i>I don't need you anymore.</i>
+01:13:54,388  <i>Who would want to go out with you?</i>
+01:13:56,757  <i>I don't need you, I never did.</i>
+01:13:59,627  <i>Go away.</i>
+01:14:01,829  <i>You wimp.</i>
+01:14:06,333  If it's too painful, you can always make it stop.
+01:14:10,905  If you don't like it, you can just run away.
+01:14:15,843  <i>Do you want to be at ease?</i>
+01:14:18,012  <i>Do you want to feel peace of mind?</i>
+01:14:20,548  <i>Do you want to become one with me?</i>
+01:14:23,350  <i>To have our bodies and souls join as one?</i>
+01:14:27,288  <i>I'd rather die than do it with you!</i>
+01:15:36,890  <i>Hey...</i>
+01:15:38,158  <i>What is it?</i>
+01:15:41,595  <i>What are dreams?</i>
+01:15:44,632  <i>Dreams?</i>
+01:15:46,800  <i>Yes, dreams.</i>
+01:16:16,430  <i>I don't understand.</i>
+01:16:18,899  <i>I don't understand what reality is.</i>
+01:16:22,169  <i>You can't bridge the gap between your own truth...</i>
+01:16:25,973  <i>and the reality of others.</i>
+01:16:28,809  <i>I don't know where to find happiness.</i>
+01:16:33,047  <i>So you only find happiness in your dreams.</i>
+01:16:37,451  <i>Then this is not reality, this world where no one exists.</i>
+01:16:41,655  <i>No, it's only a dream.</i>
+01:16:43,891  <i>Then I don't exist here either.</i>
+01:16:46,593  <i>This convenient fabrication is your attempt to change reality.</i>
+01:16:51,332  <i>Isthat wrong?</i>
+01:16:52,766  <i>You were using fantasy to escape reality.</i>
+01:16:56,637  <i>Why can't I dream that I'm alone?</i>
+01:16:59,440  <i>That is not a dream.</i>
+01:17:01,608  <i>That's a substitute for reality.</i>
+01:17:21,562  <i>So, where is my dream?</i>
+01:17:24,698  <i>It is a continuation of reality.</i>
+01:17:28,268  <i>But where is my reality?</i>
+01:17:31,839  <i>It is at the end of your dream.</i>
+01:17:59,967  Ayanami.
+01:18:02,636  Where are we?
+01:18:04,104  This place is a sea of LCL.
+01:18:07,007  The primordial soup of life.
+01:18:10,210  A place with no AT Fields, where individual forms do not exist.
+01:18:14,948  An ambiguous world...
+01:18:16,683  where you cannot tell where you end and others begin.
+01:18:21,155  A world where you exist everywhere...
+01:18:23,757  and yet you're nowhere, all at once.
+01:18:28,061  Isthis death?
+01:18:30,063  Not quite. This is a world where we are all one.
+01:18:34,835  This is the world you wished for.
+01:18:45,779  But this isn't right. This feels wrong.
+01:18:50,117  If you wish for others to exist,
+01:18:52,786  the walls of their hearts will separate them again.
+01:18:56,557  They will all feel fear once more.
+01:19:00,961  Okay then.
+01:19:10,370  Thank you.
+01:19:16,810  I only felt pain when I existed in that reality.
+01:19:21,348  So I thought it was alright to run away.
+01:19:25,152  But there was nothing good in the place I escaped to either.
+01:19:29,223  Because I didn't exist there, and so no one existed.
+01:19:36,330  Isit alright for the AT Field to cause you and others pain again?
+01:19:41,602  I don't mind.
+01:19:43,303  But what are the two of you within my heart?
+01:19:47,574  We are the hope...
+01:19:48,842  that people will one day be able to understand each other.
+01:19:53,680  And we are the words, "I love you. "
+01:19:56,583  But that's just a pretense.
+01:19:59,119  A selfish belief.
+01:20:01,889  Like some kind of prayer.
+01:20:04,291  It can't possibly last forever.
+01:20:06,927  Eventually, I'll be betrayed, and it will abandon me.
+01:20:12,799  But still, I want to see them again,
+01:20:16,236  because at the time, I know my feelings were real.
+01:21:25,038  <i>Reality exists in a place unknown, and dreams exist within reality.</i>
+01:21:29,776  <i>And truth lies in your heart.</i>
+01:21:34,081  <i>The contents of a person's heart shapes their appearance.</i>
+01:21:39,553  <i>And new images will change their hearts and their forms.</i>
+01:21:46,593  <i>The power of imagination is the ability to create your own future,</i>
+01:21:51,365  <i>and the power to create your own flow of time.</i>
+01:21:55,802  <i>But if people don't act of their own free will,</i>
+01:21:59,673  <i>then nothing will change at all.</i>
+01:22:01,608  <i>So, you must regain your own lost form by your own volition.</i>
+01:22:06,546  <i>Even if it means your words become lost...</i>
+01:22:09,616  <i>or confused with the words of others.</i>
+01:22:35,108  <i>Anyone can return to human form...</i>
+01:22:37,277  <i>as long as they are able to imagine themselves within their own heart.</i>
+01:22:48,288  <i>Don't worry.</i>
+01:22:50,590  <i>All living creatures have the power to be brought back to life...</i>
+01:22:55,162  <i>and the will to go on living.</i>
+01:22:58,498  <i>Anywhere can be paradise, as long as you have the will to live.</i>
+01:23:03,503  <i>After all, you are alive,</i>
+01:23:09,342  <i>so you will always have the chance to be happy.</i>
+01:23:24,024  <i>As long as the Sun, the Moon, and the Earth exist,</i>
+01:23:29,796  <i>everything will be alright.</i>
+01:23:55,856  will you be alright?
+01:24:00,327  I still don't know where my happiness lies.
+01:24:05,232  I'll still think about why I'm here,
+01:24:08,535  and whether or not it was good to come back.
+01:24:14,107  But that's just stating the obvious over and over.
+01:24:18,645  I am myself.
+01:24:24,451  But, Mother...
+01:24:27,721  What will you do, Mother?
+01:24:34,027  When man created Evangelion,
+01:24:36,663  were we trying to create a clone of God?
+01:24:40,500  Yes. Humans can only exist on this earth,
+01:24:44,671  but the Evangelion can live forever...
+01:24:47,908  along with the human soul that dwells within.
+01:24:52,012  Even 5 billion years from now,
+01:24:54,314  when the Earth, the Moon, and the Sun are gone,
+01:25:00,487  Eva will exist.
+01:25:03,456  It will be lonely,
+01:25:05,292  but as long as one person still lives.
+01:25:07,694  It will be eternal proof that mankind ever existed.
+01:25:13,466  <i>Goodbye, Mother.</i>
+01:28:21,054  How disgusting.
